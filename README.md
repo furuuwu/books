@@ -1,5 +1,6 @@
 ABOUT
 Just a Big Library of stolen books (muhaha) and links to videos for nerds
+https://github.com/furuuwu/books/commits/main/
 
 SELECTION
 THE BEST ONES, IMPORTANT! READ THESE!
