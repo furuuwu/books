@@ -160,6 +160,7 @@ B2013 The Religions book, DK.pdf
 B2019 Myths, legends, and sacred stories, DK.pdf
 B2013 The Blind Watchmaker, dawkins OTHER.pdf
 B2008 Nature red in tooth and claw, murray OXFORD.pdf(?)
+B2013 God, mind, and logical space, aranyosi PALGRAVE.pdf(?)
 B2008 An introduction to the Philosophy of Religion, murray CAMBRIDGE.pdf
 B2018 What is this thing called Philosophy of Religion, burns ROUTLEDGE.pdf
 B2017 Maximal God, nagasawa OXFORD.pdf(?)
@@ -168,6 +169,7 @@ Are all things empty? - Nagarjuna & The Buddhist Middle Way(?)
 Enter the Void VS Zig Zag Zen VS Alien Information Theory(? - hilarious)
 Stories of Creation - Genesis Explained
 Ancient Mysteries Iceberg - The Complete Saga
+Infamous Phantom Leaf Experiment EXPOSED
 
 demography
 B2015 Demography, lundquist OTHER.pdf
@@ -221,6 +223,8 @@ B2022 Introduction to Political Science, OPENSTAX.pdf
 other
 B2017 This Is Political Philosophy, Tuckness WILEY.pdf
 B2020 Mathematics to the rescue of Democracy, serafini SPRINGER.pdf
+B2013 The politics of immigration, hampshire OTHER.pdf
+B2021 The economics of immigration, bansak ROUTLEDGE.pdf
 Introduction to Political Philosophy by Alexander Koryagin | COURSERA
 SOCIALISM: An In-Depth Explanation
 Universal Basic Income (UBI)
@@ -387,6 +391,7 @@ Jeff Suzuki - Calculus 3
 linear algebra
 B2021 Introduction to Linear and Matrix Algebra, johnston SPRINGER.pdf
 B2021 Advanced Linear and Matrix Algebra, johnston SPRINGER.pdf
+B2023 Linear algebra with Python, tsukada SPRINGER.pdf
 
 other
 B2023 Linear Algebra and Group Theory for physicists and engineers, shapira SPRINGER.pdf
@@ -690,6 +695,7 @@ B2021 Learning PHP, MySQL & JavaScript, nixon REILLY.pdf
 B2021 Awesome coding, arslan NONE.pdf
 B2020 Building Java programs, reges PEARSON.pdf
 B2021 Go programming language, lee DUMMIES.pdf
+B2022 Node.js, buckler SITEPOINT.pdf
 B2020 Node cookbook, griggs PACKT.pdf
 
 other
@@ -1810,6 +1816,9 @@ B2018 Evolution since coding, burton ELSEVIER.pdf
 B2011 Frozen in time, stilwell CSIRO.pdf
 B2017 Deep homology, held CAMBRIDGE.pdf(?)
 B2022 Early life on Earth, sugitani CRC.pdf
+B2021 The evolutionary biology of extinct and extant organisms, kundu ELSEVIER.pdf
+B2014 Evolutionary biology, thompson CAMBRIDGE.pdf
+B2010 The evolutionary biology of human body fatness, wells CAMBRIDGE.pdf
 How good is the fossil record?
 Lecture 1: The Rise of Animals
 These Fossils Were Supposed To Be Impossible
@@ -2001,6 +2010,7 @@ B2022 Rabbit production, lukefahr CABI.pdf
 B2018 Animal welfare in a changing world, butterworth CABI.pdf
 B2014 Sentience and animal welfare, broom CABI.pdf
 B2018 Principles of cattle production, phillips CABI.pdf
+B2019 Companion animal care and welfare, yeates WILEY.pdf
 B2014 The domestic cat, turner CAMBRIDGE.pdf
 B2012 The behaviour of the domestic cat, bradshaw CABI.pdf
 B2018 Understanding animal behaviour, putman OTHER.pdf
@@ -2062,6 +2072,7 @@ Evolution, the history of life and how the tree of life is trying to kill us.
 What cells make up the brain and what do they do?
 Passing Pathophysiology: Potassium
 2017 Nobel Prize for Circadian Rhythm Explained
+Fact or Fiction - A Sensible Logic to the Existence of the Seven Chakras(?)
 https://www.youtube.com/@TheAnatomyLab
 
 medicine + nursing
@@ -2189,6 +2200,9 @@ B2015 The feeling brain, olson NORTON-PRESS.pdf
 B2021 The hidden spring, solms NORTON-PRESS.pdf(?)
 B2016 The evolution of consciousness, grinde SPRINGER.pdf(?)
 B2012 The archaeology of mind, panksepp NORTON-PRESS.pdf
+B2013 The peripheral mind, aranyosi OXFORD.pdf(?)
+B2018 The integrated nervous system, hendelman CRC.pdf
+B2004 Encephalo-peripheral nervous system, leblanc SPRINGER.pdf
 Electrophysiology 1 - History
 Libet's Challenge to Free Will | Short 1 of 2 from A Beginner's Guide To Neural Mechanisms
 Building Blocks of Memory in the Brain
@@ -2241,6 +2255,13 @@ B2020 Asking animals, nielsen CABI.pdf
 B2017 Psychology of emotion, niedenthal ROUTLEDGE.pdf
 B2018 Beyond evolutionary psychology, solms CAMBRIDGE.pdf
 B2012 The biology of happiness, grinde SPRINGER.pdf(?)
+B2012 Sex-gender, sterling ROUTLEDGE.pdf
+B2012 The biology of homosexuality, balthazart OXFORD.pdf
+B2007 Sex, size and gender roles, fairbairn OXFORD.pdf
+B2012 Autism, murray ROUTLEDGE.pdf
+B2012 Depression, lewis ROUTLEDGE.pdf
+B2014 Pain and suffering, schleifer ROUTLEDGE.pdf
+B2020 Purposeful pain, sheridan SPRINGER.pdf
 1. Introduction to Human Behavioral Biology
 Learning Online
 What Does IQ Actually Measure?
@@ -2658,6 +2679,8 @@ B2013 Climate change geoengineering, burns CAMBRIDGE.pdf
 B2014 Geoengineering of the climate system, hester RSC.pdf
 B2016 The rare earth elements, voncken SPRINGER.pdf
 B2020 Transport of infrared atmospheric radiation, smirnov GRUYTER.pdf(?)
+B2014 The Holocene, roberts WILEY.pdf
+B2010 The great ocean conveyor, broecker PRINCETON.pdf
 2023 Rock organic carbon oxidation CO2 release offsets silicate weathering sink, zondervan.pdf
 Has Global Warming Happened Before? Earth's History With Climate Change
 How Pangea Might Have Caused a Climate Crisis
