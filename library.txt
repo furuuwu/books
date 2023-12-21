@@ -23,7 +23,7 @@ B2018 Foundations of computer science, forouzan CENGAGE.pdf(conceptual)
 B2021 How Computers Really Work, justice NO-STARCH-PRESS.pdf 
 B2017 Coding, abraham DUMMIES.pdf(web frontend, python)
 B2021 Go programming language, lee DUMMIES.pdf
-B2020 Node cookbook, griggs PACKT.pdf
+B2022 Node.js, buckler SITEPOINT.pdf
 B2018 Practical SQL, debarros NO-STARCH-PRESS.pdf
 B2023 Database systems, coronel CENGAGE.pdf
 B2021 API testing and development with Postman, westerveld PACKT.pdf
@@ -146,6 +146,7 @@ B2020 Crooked thinking or straight talk, binmore SPRINGER.pdf(?)
 What is Philosophy?: Crash Course Philosophy #1
 The Denial of Death | Part 1 - Fear of Death, Repression, Heroism
 finding purpose in our insignificant existence
+Episode 155 - Emil Cioran - Absurdity and Nothingness
 Futurist From 1922 Makes Weirdly Accurate Predictions For 2022
 Philosophize This! - YouTube
 History of Philosophy without any gaps
@@ -207,6 +208,7 @@ B2013 Trading systems and methods, kaufman WILEY.pdf
 B2023 Automated market makers, ottina APRESS.pdf
 B2023 Understanding crypto fundamentals, jeegers APRESS.pdf
 B2019 Programming Bitcoin, song REILLY.pdf
+B2011 Investing demystified, lim MCGRAWHILL.pdf
 Interest and the Amount Function
 Capitalism is good. Let me explain.
 Is Economics a Science or Pseudoscience?
@@ -397,6 +399,10 @@ other
 B2023 Linear Algebra and Group Theory for physicists and engineers, shapira SPRINGER.pdf
 B2015 An introduction to Tensors and Group Theory for physicists, jeevanjee SPRINGER.pdf
 B2008 Applied Linear Algebra, sadun AMS.pdf
+B2010 A modern introduction to linear algebra, ricardo CRC.pdf
+B2014 Linear algebra, bronson ELSEVIER.pdf
+B2020 Matrix methods, bronson ELSEVIER.pdf
+B2021 A first course in group theory, davvaz SPRINGER.pdf
 Linear Algebra 1.1.1 Systems of Linear Equations
 Linear Algebra Full Course | Linear Algebra for beginners
 Tuples and Vectors
@@ -407,6 +413,10 @@ B2012 Differential Equations, blanchard CENGAGE.pdf
 
 other
 B2008 Introduction to differential equations with dynamical systems, campbell PRINCETON.pdf
+B2017 Elementary differential equations and boundary value problems, boyce WILEY.pdf
+B2015 Differential equations, boyce WILEY.pdf
+B2021 A modern introduction to differential equations, ricardo ELSEVIER.pdf
+B2021 A modern introduction to differential equations, solutions ricardo ELSEVIER.pdf
 B2023 Exploring modeling with data and Differential Equations using R, zobitz CRC.pdf
 B2019 Differential equations, bourdon AMS.pdf
 B2021 Biology in time and space, keener AMS.pdf
@@ -552,6 +562,7 @@ B2023 Statistics and data visualization in climate science with R and Python, no
 B2005 Mathematics and statistics for life scientists, mackenzie BIOS.pdf
 B2008 Introductory probability and statistics, kozak CABI.pdf
 B2009 Rational decisions, binmore PRINCETON.pdf
+B2020 How to use SPSS, cronk ROUTLEDGE.pdf
 Statistics - 1.1 Intro to Statistics
 Using Excel to Display Data
 Biostatistics 1
@@ -679,6 +690,7 @@ B2020 The React workshop, richey PACKT.pdf
 B2022 React key concepts, schwarzmuller PACKT.pdf
 B2013 Dart in action, buckett MANNING.pdf
 B2023 Flutter cookbook, alessandria PACKT.pdf
+B2022 The missing Bootstrap 5 guide, jensen PACKT.pdf
 #1 - What is HTML used for? - HTML Full Tutorial for Beginners
 #1 - What is CSS? - CSS Full Tutorial
 #1 What is JavaScript? | JavaScript Full Tutorial
@@ -690,7 +702,7 @@ Flutter for the JS Developer
 Learn The Dart Programming Language - Complete Free Course!
 
 php, node, java, Go
-Go is my favorite language, just because it is simple. Node takes 3rd place because of JS syntax convenience.
+Go is my favorite language, just because it is simple. Node/Deno is also good because of JS syntax convenience.
 B2021 Learning PHP, MySQL & JavaScript, nixon REILLY.pdf
 B2021 Awesome coding, arslan NONE.pdf
 B2020 Building Java programs, reges PEARSON.pdf
@@ -913,8 +925,10 @@ B2017 Practical Packet Analysis, sanders NO-STARCH-PRESS.pdf
 B2021 Ethical Hacking, graham NO-STARCH-PRESS.pdf
 B2019 Hands-on Network Programming with C# and .NET Core, burns PACKT BAD-QUALITY.pdf
 B2017 The mathematics of secrets, holden PRINCETON.pdf
+B2021 Real-world cryptography, wong MANNING.pdf
 B2017 Everyday Cryptography, martin OXFORD.pdf
 B2022 Essential Cryptography for JavaScript developers, Segala PACKT.pdf
+B2018 History of cryptography and cryptanalysis, dooley SPRINGER.pdf
 B2020 API Security in action, madden MANNING.pdf
 B2021 Keycloak, thorgersen PACKT.pdf
 B2018 Internet infrastructure, fox CRC.pdf
@@ -1060,6 +1074,7 @@ B2018 An introduction to Hamiltonian Mechanics, castillo SPRINGER.pdf
 B2021 An introduction to Bond Graph Modeling with applications, machado CRC.pdf
 B2002 Modeling and analysis of dynamic systems, close WILEY.pdf
 B2007 Engineering System Dynamics, brown CRC.pdf
+B2021 System dynamics, palm MCGRAWHILL.pdf
 B2023 Modeling of Dynamic Systems with engineering applications, silva CRC.pdf
 PHYS 101 | Position & Velocity 1 - Position
 Newtonian mechanics revision
@@ -1137,6 +1152,9 @@ B2023 Open circuits, schlaepfer NO-STARCH-PRESS.pdf
 B2018 Robot, DK.pdf
 B2019 Learn Robotics with Raspberry Pi, NO-STARCH-PRESS.pdf
 B2023 Practical Arduino Robotics, kaul PACKT.pdf
+B2005 Robotics demystified, wise MCGRAWHILL.pdf
+B2019 Modern Robotics, lynch OTHER.pdf
+B2023 Robotics, Vision and Control, corke SPRINGER.pdf
 B2018 A Systematic Approach to Learning Robot Programming with ROS, newman CRC.pdf
 B2014 Sensors, karvinen MAKE.pdf
 B2020 Sensors, actuators, and their interfaces, ida IET.pdf
@@ -1148,8 +1166,6 @@ B2012 Digital Electronics, kleitz PEARSON.pdf
 B2021 Fundamentals of Logic Design, roth CENGAGE.pdf
 B2023 Build autonomous mobile robot from scratch using ROS, subramanian APRESS.pdf
 B2020 Robot modeling and control, spong WILEY.pdf
-B2019 Modern Robotics, lynch OTHER.pdf
-B2023 Robotics, Vision and Control, corke SPRINGER.pdf
 B2008 Car science, DK.pdf
 B2020 Automotive technology, erjavec CENGAGE.pdf
 B2021 Designing Electronics that work, scott NONE.pdf
@@ -1167,6 +1183,8 @@ B2021 Homemade robots, sarafan NO-STARCH-PRESS BAD-QUALITY.pdf
 B2022 KiCad 6 like a pro, dalmaris OTHER.pdf
 B2023 FreeCAD for electronics applications, duden OTHER.pdf
 B2014 A concise guide to chaotic electronic circuits, buscarino SPRINGER.pdf
+B2024 A practical introduction to electrical circuits, ayers CRC.pdf
+B2010 Digital integrated circuits, ayers CRC.pdf
 PHYS 102 | Charge 1 - Microscopic Charges
 SRS 1.1 Motivation of the course
 LESSON 1: Simple Introduction to the Arduino
@@ -1254,6 +1272,7 @@ B2020 Fundamentals of Modern Manufacturing, groover WILEY.pdf
 B2015 Machine Tool practices, kibbe PEARSON.pdf
 B2018 How your House works, wing WILEY.pdf
 B2000 Engineering the city, levy OTHER.pdf
+B2019 Man-made wonders of the world, DK.pdf
 B2012 Construction science and materials, virdi WILEY.pdf
 B2013 Building construction, mehta PEARSON.pdf
 B2016 Simplified engineering for architects and builders, ambrose WILEY.pdf
@@ -1318,6 +1337,7 @@ B2022 Introduction to semiconductor physics and devices, evstigneev SPRINGER.pdf
 B2014 Solid State Chemistry and its applications, west WILEY.pdf
 B2008 Introduction to Nanoscience, hornyak CRC.pdf
 B2012 Introductory Nanoscience, kuno GARLAND.pdf
+B2007 Nanotechnology demystified, williams MCGRAWHILL.pdf
 B2015 Nanotechnology, rogers CRC.pdf
 B2010 Elasticity and geometry, audoly OXFORD.pdf
 B2019 Foundations of solid state physics, roth WILEY.pdf
@@ -1376,6 +1396,7 @@ B2022 Light-matter interaction, stenzel SPRINGER.pdf
 B2023 Fundamentals of particle physics, paganini CAMBRIDGE.pdf
 
 other
+B2020 Mathematical concepts of quantum mechanics, gustafson SPRINGER.pdf
 B2015 Structure of Matter, rigamonti SPRINGER.pdf
 B2012 Quantum mechanics, mcintyre PEARSON.pdf
 B2010 Quantum processes, systems, and information, schumacher CAMBRIDGE.pdf
@@ -1395,6 +1416,7 @@ B1971 Modern Physics and Quantum Mechanics, anderson OTHER.pdf
 B2017 Quarks, leptons and the big bang, allday CRC.pdf
 B1986 Quantum mechanics in simple matrix form, jordan WILEY.pdf(? never trust when it says “simple” in the title)
 B2012 A modern approach to Quantum Mechanics, townsend OTHER.pdf
+B2010 Quantum physics, townsend OTHER.pdf
 B2017 Quantum Theory from first principles, ariano OXFORD.pdf
 B2023 Lectures on Quantum Mechanics, basdevant SPRINGER.pdf
 B2023 Quantum computers, baaquie SPRINGER.pdf
@@ -1421,6 +1443,7 @@ B2000 The physics of particle accelerators, wille OXFORD.pdf
 B2020 Finite mathematics as the foundation of classical mathematics and quantum theory, lev SPRINGER.pdf(?)
 B2023 Superatoms, gaston CRC.pdf
 B2005 Information and its role in nature, roederer SPRINGER.pdf
+B2017 Light and vacuum, meis  WORLD-SCIENTIFIC.pdf(?)
 The Iceberg of Quantum Physics Explained
 Chapter 1: Stern Gerlach Experiments
 Quantum Physics Full Course | Quantum Mechanics Course
@@ -1575,6 +1598,7 @@ B2021 Campbell biology, urry PEARSON.pdf
 other
 B2013 Biology, fried SCHAUM.pdf
 B2020 Biology, OPENSTAX.pdf
+B2017 Human biology, johnson PEARSON.pdf
 B2011 Visualizing Human Biology, ireland WILEY.pdf
 B2011 Visualizing Human Biology lab manual, ellie WILEY.pdf
 B2020 Inquiry into Life, mader MCGRAWHILL.pdf
@@ -1703,6 +1727,7 @@ other
 B2008 Principles of nucleic acid structure, neidle ELSEVIER.pdf
 B2013 Genetics, fletcher BIOS.pdf
 B2015 Genetics and genomics in medicine, strachan GARLAND.pdf
+B2013 Human genetics and genomics, korf WILEY.pdf
 B2007 Primer of genetic analysis, thompson OXFORD.pdf
 B2003 The x in sex, bainbridge OTHER.pdf
 B2020 Genetics, robinson DUMMIES.pdf
@@ -2066,6 +2091,7 @@ B2022 Electrophysiology, rettinger SPRINGER.pdf
 B2014 Energetic kinesiology, krebs OTHER.pdf(?)
 B2013 Vertebrate endocrinology, norris ELSEVIER.pdf
 B2017 An introduction to behavioral endocrinology, nelson OTHER.pdf
+B2019 Heart of the matter, terracciano SPRINGER.pdf
 Introduction to Anatomy and Physiology
 Introduction to Histology
 Evolution, the history of life and how the tree of life is trying to kill us.
@@ -2110,6 +2136,7 @@ B2013 Kuby Immunology, owen OTHER.pdf
 B2017 Essential Immunology, roitt WILEY.pdf
 B2015 The lock and key of medicine, marks OTHER.pdf
 B2017 The immune response to implanted materials and devices, corradetti SPRINGER.pdf
+B2021 Introduction to antibody engineering, knopp SPRINGER.pdf
 What is a Vaccine?
 
 development
@@ -2279,6 +2306,7 @@ B2018 Introduction to Experimental Biophysics, nadeau CRC.pdf
 B2018 Biomolecular Thermodynamics, barrick CRC.pdf
 B2012 Microcalorimetry of macromolecules, privalov WILEY.pdf
 B2019 Cellular Biophysics and Modeling, smith CAMBRIDGE.pdf
+B2008 Chemical biophysics, beard CAMBRIDGE.pdf
 B2020 Physics of biological action and perception, latash ELSEVIER.pdf
 B2016 The Physics of Living Systems, cleri SPRINGER.pdf
 B2001 Mechanics of Motor Proteins & the Cytoskeleton, howard OTHER.pdf
@@ -2442,6 +2470,7 @@ B2016 Geoprocessing with Python, garrard MANNING.pdf
 B2019 An introduction to R for spatial analysis & mapping, brunsdon OTHER.pdf
 
 other
+B2015 Geographic information science and systems, longley WILEY.pdf
 B2021 Introduction to Python in Earth Science Data Analysis, petrelli SPRINGER.pdf
 B2016 GIS fundamentals, bolstad NONE.pdf
 B2020 QGIS for hydrological applications, kwast OTHER.pdf
@@ -2463,6 +2492,7 @@ B2014 Geophysics for the mineral exploration geoscientist, mudge CAMBRIDGE.pdf
 other
 B2007 Fundamentals of Geophysics, lowrie CAMBRIDGE.pdf
 B2008 Physics of the earth, stacey CAMBRIDGE.pdf
+B2014 Geodynamics, turcotte CAMBRIDGE.pdf
 B2012 Introducing Tectonics, Rock Structures and Mountain Belts, park DUNEDIN.pdf
 B2018 Principles of Seismology, buforn CAMBRIDGE.pdf
 B2013 The physics of rock failure and earthquakes, ohnaka CAMBRIDGE.pdf
@@ -2539,6 +2569,7 @@ B2015 How Mining works, dunbar OTHER.pdf
 B2019 Mining and the Environment, spitz CRC.pdf
 B2015 Mining in ecologically sensitive landscapes, tibbett CSIRO.pdf
 B2021 World for sale, farchy OXFORD.pdf
+B2009 Natural resource conservation, chiras PEARSON.pdf
 B2022 Elements and Mineral resources, sanz SPRINGER.pdf
 B2015 Mineral resources, economics and the environment, kesler CAMBRIDGE.pdf
 B2013 Simulation of ecological and environmental models, acevedo CRC.pdf
@@ -2580,6 +2611,7 @@ B2022 Ecosystems of the mediterranean sea, glaeser SPRINGER.pdf
 B2018 The biology of coral reefs, sheppard OXFORD.pdf
 B2021 Coral reefs, sheppard PRINCETON.pdf
 B2010 Introduction to Marine biology, karleskint CENGAGE.pdf
+B2016 Marine biology, castro MCGRAWHILL.pdf
 B2016 The marine world, dipper PRINCETON.pdf
 B2021 Forest insects in Europe, wermelinger CRC.pdf
 B2011 Identification guide of freshwater macroinvertebrates of Spain, miranda SPRINGER.pdf
@@ -2624,6 +2656,7 @@ I recently learned that waste heat will boil the oceans in about 400 years.(?)
 New Evidence We Are Entering An Ice Age Termination Event - EXPLAINED(?)
 
 other
+B2022 The physics of renewable energy, stutzmann SPRINGER.pdf
 B2009 Climate change, pittock CSIRO.pdf
 B2020 Introducing meteorology, shonk DUNEDIN.pdf
 B2009 Sustainable Energy, mackay CAMBRIDGE.pdf
@@ -2766,6 +2799,7 @@ B2014 Essentials of Igneous and Metamorphic Petrology, frost CAMBRIDGE.pdf
 B2014 Sedimentary Geology, prothero OTHER.pdf
 
 other
+B1989 Basic analytical petrology, ragland OXFORD.pdf
 B2003 Igneous and metamorphic petrology, best WILEY.pdf
 B1998 A colour atlas of carbonate sediments and rocks under the microscope, mackenzie OTHER.pdf
 B1984 Atlas of sedimentary rocks under the microscope, mackenzie OTHER.pdf
