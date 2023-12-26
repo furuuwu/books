@@ -563,6 +563,7 @@ B2005 Mathematics and statistics for life scientists, mackenzie BIOS.pdf
 B2008 Introductory probability and statistics, kozak CABI.pdf
 B2009 Rational decisions, binmore PRINCETON.pdf
 B2020 How to use SPSS, cronk ROUTLEDGE.pdf
+B2016 Understanding test and exam results statistically, soh SPRINGER.pdf
 Statistics - 1.1 Intro to Statistics
 Using Excel to Display Data
 Biostatistics 1
@@ -635,6 +636,7 @@ B2009 Pattern calculus, jay SPRINGER.pdf
 Computer Science in 10 Minutes
 Lec 1 | MIT 6.01SC Introduction to Electrical Engineering and Computer Science I, Spring 2011
 Harvard CS50 – Full Computer Science University Course
+Binary search in 4 minutes
 Explaining SSDs: Form Factors, Interfaces & Technologies
 How to make a pull request on an open source project
 The ULTIMATE Discord Setup Tutorial 2023 - How to Setup a Discord Server WITH Bots & Roles!
@@ -1122,6 +1124,7 @@ probably the most down-to-earth non-trivial physics. Do people actually know wha
 B2007 Basic Electricity, gussow SCHAUM.pdf
 B2023 Beginning Breadboarding, fox APRESS.pdf
 B2023 Applied analog electronics, karplus WORLD-SCIENTIFIC.pdf
+B2024 Applied embedded electronics, twomey REILLY.pdf
 B2023 Introduction to Mechatronics, samanta SPRINGER.pdf
 B2022 Digital Design and Computer Architecture, patterson ELSEVIER.pdf
 
@@ -2642,6 +2645,7 @@ B2016 Natural history of Tenerife, ashmole OTHER.pdf
 
 in pt
 B2020 Macroinvertebrados bentónicos.pdf
+Série "Do Ar à Água" - Episódio 1 - Viajantes do Ar
 Floresta Portuguesa – RTP Arquivos
 O Mar e os seus recursos – RTP Arquivos
 
