@@ -144,6 +144,7 @@ B2022 Is political authority an illusion, huemer ROUTLEDGE.pdf
 B2021 Absence and nothing, mumford OXFORD.pdf(?)
 B2020 Crooked thinking or straight talk, binmore SPRINGER.pdf(?)
 What is Philosophy?: Crash Course Philosophy #1
+Peter Singer - ordinary people are evil
 The Denial of Death | Part 1 - Fear of Death, Repression, Heroism
 finding purpose in our insignificant existence
 Episode 155 - Emil Cioran - Absurdity and Nothingness
@@ -832,10 +833,10 @@ B2023 Artificial Intelligence in Games, roberts CRC.pdf
 B2016  Multiplayer Game Programming, glazer c++ language PEARSON.pdf
 B2022 Unreal Engine 5 character creation, animation, and cinematics, venter PACKT.pdf
 B2023 Multiplayer game development with Unreal Engine 5, secchi PACKT.pdf
+B2023 The essential guide to creating multiplayer games with Godot 4.0, campos PACKT.pdf
 COMP4300 - C++ Game Programming - Lecture 01 - Course Introduction
 Gaming in Go: Episode 1 - Introduction
 How Multiplayer Games Work
-Basics Of Multiplayer In Godot 4!
 C++ For Unreal Engine (Part 1) | Learn C++ For Unreal Engine | C++ Tutorial For Unreal Engine
 The Unreal Engine Game Framework: From int main() to BeginPlay
 Make a 2D Top Down Game in Unreal Engine 5 - Tutorial
@@ -847,7 +848,10 @@ Code a 2D Game Engine using Java - Full Course for Beginners
 Networking in C++ Part #1: MMO Client/Server, ASIO & Framework Basics
 Let's Learn Blender! #1: Getting Started for Beginners!
 Godot 4 Crash Course for Beginners - GameDev 2D Top Down Tutorial
+Godot Components - how to structure a game into manageable parts (Beginner/Intermediate)
+Godot 4 - Tiled Dungeon Environment From Scratch
 Code a 3D RPG Action Game – Godot GameDev Tutorial
+Basics Of Multiplayer In Godot 4!
 Make A Game Like Pokemon in Unity | #1 - Introduction and Tile Based Movement
 How to choose your multiplayer backend
 Cross-Platform IAP Store Page with Unity IAP in 2023 | Unity Tutorial
@@ -1932,8 +1936,8 @@ B2017 Sustainable protein sources, nadathur ELSEVIER.pdf
 An Overview of Science of Nutrition
 Making the world's most expensive carbonated water!
 5 Ways To Identify Ultra-Processed Foods with Chris van Tulleken
-Factory farming, animal welfare and the future of modern agriculture | DW Documentary
 Episode #071 ... Is Killing Animals For Food Morally Justifiable?
+The Science of Why People Hate Vegans
 Soylent: How I Stopped Eating for 30 Days(?)
 
 in pt
@@ -2411,6 +2415,7 @@ the only down-to-Earth science even if you only think in million year intervals
 B2010 Earth materials, hefferan WILEY.pdf
 B2018 Introducing Geology, park DUNEDIN.pdf
 B2018 The Geology companion, prost CRC.pdf
+B1992 Planet Earth, emiliani CAMBRIDGE.pdf
 
 other
 B2019 Earth materials, perkins CRC.pdf
@@ -2429,6 +2434,7 @@ B2021 Song of the Earth, blankenheim OXFORD.pdf
 B2014 Fundamentals of Physical Geology, jain SPRINGER.pdf
 B2015 The changing earth, monroe CENGAGE.pdf
 B2019 Earth science for civil and environmental engineers, jackson CAMBRIDGE.pdf
+B2009 The Cambridge handbook of earth science data, henderson CAMBRIDGE.pdf
 Lecture 1A: Introduction to the Course
 01) Intro to Earth Explorations
 Planet Earth-Lab 1-Mineral Identification
@@ -2574,7 +2580,10 @@ B2015 Mining in ecologically sensitive landscapes, tibbett CSIRO.pdf
 B2021 World for sale, farchy OXFORD.pdf
 B2009 Natural resource conservation, chiras PEARSON.pdf
 B2022 Elements and Mineral resources, sanz SPRINGER.pdf
+B2020 The world of mineral deposits, neukirchen SPRINGER.pdf
+B2013 Ore deposit geology, ridley CAMBRIDGE.pdf
 B2015 Mineral resources, economics and the environment, kesler CAMBRIDGE.pdf
+B2011 Economic geology, pohl WILEY.pdf
 B2013 Simulation of ecological and environmental models, acevedo CRC.pdf
 B2016 An introduction to Conservation Biology, primack OTHER.pdf
 B2016 Real-time Environmental Monitoring, acevedo CRC.pdf
