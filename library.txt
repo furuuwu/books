@@ -14,6 +14,7 @@ B2014 The big questions, solomon CENGAGE.pdf
 B2020 Modern engineering mathematics, james PEARSON.pdf
 B2018 Advanced modern engineering mathematics, james PEARSON.pdf
 B2022 Mathematical methods and physical insights, schramm CAMBRIDGE.pdf
+B2023 Exploring university mathematics with Python, chongchitnan SPRINGER.pdf
 B2023 Computational mathematics, mitsotakis CRC.pdf
 B2016 Statistics for the life sciences, samuels PEARSON.pdf
 B2020 Statistics for engineers and scientists, navidi MCGRAWHILL.pdf
@@ -21,7 +22,8 @@ B2020 Statistics for engineers and scientists, navidi MCGRAWHILL.pdf
 (cs)
 B2018 Foundations of computer science, forouzan CENGAGE.pdf(conceptual)
 B2021 How Computers Really Work, justice NO-STARCH-PRESS.pdf 
-B2017 Coding, abraham DUMMIES.pdf(web frontend, python)
+B2024 A pythonic adventure, anni MANNING.pdf
+B2017 Coding, abraham DUMMIES.pdf(web frontend)
 B2021 Go programming language, lee DUMMIES.pdf
 B2022 Node.js, buckler SITEPOINT.pdf
 B2018 Practical SQL, debarros NO-STARCH-PRESS.pdf
@@ -228,6 +230,12 @@ B2017 This Is Political Philosophy, Tuckness WILEY.pdf
 B2020 Mathematics to the rescue of Democracy, serafini SPRINGER.pdf
 B2013 The politics of immigration, hampshire OTHER.pdf
 B2021 The economics of immigration, bansak ROUTLEDGE.pdf
+B2021 International politics, anieri CENGAGE.pdf
+B2017 International politics, jervis PEARSON.pdf
+B2023 The globalization of world politics, baylis OXFORD.pdf
+B2022 Introduction to international relations, sorensen OXFORD.pdf
+B2013 International relations theories, dunne OXFORD.pdf
+B2022 Theories of international relations, devetak OTHER.pdf
 Introduction to Political Philosophy by Alexander Koryagin | COURSERA
 SOCIALISM: An In-Depth Explanation
 Universal Basic Income (UBI)
@@ -296,11 +304,13 @@ math
 overview
 common ground between the sciences
 B2017 Foundation mathematics for biosciences, bryson PEARSON.pdf
+B2023 Exploring university mathematics with Python, chongchitnan SPRINGER.pdf
 B2006 Mathematical methods for physics and engineering, riley CAMBRIDGE.pdf
 B2006 Student solutions manual for Mathematical methods for physics and engineering, riley CAMBRIDGE.pdf
 B2022 Mathematical methods and physical insights, schramm CAMBRIDGE.pdf
 B2020 Modern engineering mathematics, james PEARSON.pdf
 B2018 Advanced modern engineering mathematics, james PEARSON.pdf
+B2021 X marks the spot, garfinkle CRC.pdf
 
 other
 B2023 Engineering mathematics by example vol1, sobot SPRINGER.pdf
@@ -342,6 +352,8 @@ Mathcha
 calculus
 B2021 Calculus, stewart CENGAGE.pdf
 B2021 Introduction to Analysis with complex numbers, swanson WORLD-SCIENTIFIC.pdf
+B2019 Precalculus made difficult, braver OTHER.pdf
+B2019 Full frontal calculus, braver OTHER.pdf
 
 other
 B2019 Calculus reordered, bressoud PRINCETON.pdf
@@ -395,6 +407,7 @@ linear algebra
 B2021 Introduction to Linear and Matrix Algebra, johnston SPRINGER.pdf
 B2021 Advanced Linear and Matrix Algebra, johnston SPRINGER.pdf
 B2023 Linear algebra with Python, tsukada SPRINGER.pdf
+B2023 The dark art of linear algebra, braver OTHER.pdf
 
 other
 B2023 Linear Algebra and Group Theory for physicists and engineers, shapira SPRINGER.pdf
@@ -496,6 +509,7 @@ B2014 Mathematical methods in biology and neurobiology, jost SPRINGER.pdf
 System Dynamics Building Blocks for Beginners
 Mathematical modeling of physiological systems: Dynamical systems (Part 1)
 Dynamic equations on time scales
+The Biggest Gap in Science: Complexity
 https://github.com/eguidotti/calculus
 
 discrete
@@ -590,6 +604,7 @@ B1999 Godel, Escher, Bach, hofstadter OTHER.pdf
 B2005 Number, dantzig OTHER.pdf
 B2014 Taming the unknown, katz PRINCETON.pdf
 B1972 Mathematical thought from ancient to modern times, kline OXFORD.pdf
+B2024 A brief history of mathematics for curious minds, krzysztof WORLD-SCIENTIFIC.pdf
 Introduction to Abstract Algebra
 Climbing past the complex numbers.
 Discrete Math - 4.1.1 Divisibility
@@ -608,6 +623,7 @@ informatics
 overview, theory
 B2018 Foundations of computer science, forouzan CENGAGE.pdf
 B2021 How Computers Really Work, justice NO-STARCH-PRESS.pdf 
+B2021 The architecture of computer hardware, systems software, and networking, englander WILEY.pdf
 B2024 Principles of computer science, crotts OTHER.pdf
 B2017 Adventures in computer science, bonillo SPRINGER.pdf
 
@@ -634,6 +650,7 @@ B2023 Practical computer architecture with Python and ARM, clements PACKT.pdf
 B2017 Numbers and computers, kneusel SPRINGER.pdf
 B2024 Computer arithmetic in practice, grys CRC.pdf
 B2009 Pattern calculus, jay SPRINGER.pdf
+B2024 The muse of coding, garfinkle CRC.pdf
 Computer Science in 10 Minutes
 Lec 1 | MIT 6.01SC Introduction to Electrical Engineering and Computer Science I, Spring 2011
 Harvard CS50 – Full Computer Science University Course
@@ -645,6 +662,8 @@ Beginner-Friendly Discord Server Tutorial!
 How to Make an AESTHETIC DISCORD SERVER For Beginners! 🌙 (2022)
 Code a Discord Bot with Python - Host for Free in the Cloud
 How programmers flex on each other
+Blue Screens of Death Explained
+Windows 10 and 11 Wont Boot, How To Fix UEFI Partition
 TIOBE Index
 Khan academy - Computer programming
 
@@ -694,6 +713,8 @@ B2022 React key concepts, schwarzmuller PACKT.pdf
 B2013 Dart in action, buckett MANNING.pdf
 B2023 Flutter cookbook, alessandria PACKT.pdf
 B2022 The missing Bootstrap 5 guide, jensen PACKT.pdf
+B2023 Real-world Svelte, hau PACKT.pdf
+B2023 Building real-world web applications with Vue.js 3, quinten PACKT.pdf
 #1 - What is HTML used for? - HTML Full Tutorial for Beginners
 #1 - What is CSS? - CSS Full Tutorial
 #1 What is JavaScript? | JavaScript Full Tutorial
@@ -756,7 +777,9 @@ Layout design and desktop publishing software | Adobe InDesign
 python
 Best 1st language. Has all the data science libraries.
 B2023 Python crash course, matthes NO-STARCH-PRESS.pdf
+B2024 A pythonic adventure, anni MANNING.pdf
 B2023 Python real-world projects, lott PACKT.pdf
+Learn Flask for Python - Full Tutorial
 
 other
 B2018 Begin to code with Python, miles PEARSON.pdf
@@ -769,9 +792,14 @@ B2022 Introduction to Algorithms, python cormen MIT.pdf
 B2014 Python algorithms, hetland APRESS.pdf
 B2013 Data structures and algorithms in Python, goodrich WILEY.pdf
 B2018 Web scraping with Python, mitchell REILLY.pdf
+B2016 Essential SQLAlchemy, myers REILLY.pdf
+B2018 Flask web development, grinberg REILLY.pdf
+B2023 Full-stack Flask and React, adedeji PACKT.pdf
+B2023 Web development with Django, shaw PACKT.pdf
 The complete guide to Python
 How to Create and Use Virtual Environments in Python With Poetry
-Automate Tinder using Python & ChatGPT 🔥 | Code with me
+Python Website Full Tutorial - Flask, Authentication, Databases & More
+Python REST API Tutorial - Building a Flask REST API
 
 databases + systems
 B2023 Beginning Software Engineering, stephens WILEY.pdf
@@ -834,6 +862,9 @@ B2016  Multiplayer Game Programming, glazer c++ language PEARSON.pdf
 B2022 Unreal Engine 5 character creation, animation, and cinematics, venter PACKT.pdf
 B2023 Multiplayer game development with Unreal Engine 5, secchi PACKT.pdf
 B2023 The essential guide to creating multiplayer games with Godot 4.0, campos PACKT.pdf
+B2013 Learn HTML5 by creating fun games, silveira PACKT.pdf
+B2015 Multiplayer game development with HTML5, silveira PACKT.pdf
+Build a Game with JavaScript and HTML Canvas [RPG Kit series]
 COMP4300 - C++ Game Programming - Lecture 01 - Course Introduction
 Gaming in Go: Episode 1 - Introduction
 How Multiplayer Games Work
@@ -847,6 +878,7 @@ Android Game Tutorial - Our First Code - Ep01
 Code a 2D Game Engine using Java - Full Course for Beginners
 Networking in C++ Part #1: MMO Client/Server, ASIO & Framework Basics
 Let's Learn Blender! #1: Getting Started for Beginners!
+Free Mini-Course for Blender | Pokémon Character!
 Godot 4 Crash Course for Beginners - GameDev 2D Top Down Tutorial
 Godot Components - how to structure a game into manageable parts (Beginner/Intermediate)
 Godot 4 - Tiled Dungeon Environment From Scratch
@@ -909,6 +941,7 @@ MIT Introduction to Deep Learning | 6.S191
 Liquid Neural Networks
 Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast #258
 Training AI to Play Pokemon with Reinforcement Learning
+Why Brain-like Computers Are Hard
 Two Minute Papers - YouTube
 
 in pt
@@ -917,6 +950,7 @@ B2012 Manual de computação evolutiva e metaheurística, antunes COIMBRA-PRESS.
 networking + security
 cables buried in the ground and antennas that send 4G radiation that causes autism… and hackers
 B2013 Computer security literacy, jacobson CRC.pdf
+B2023 Discovering cybersecurity, nielson APRESS.pdf
 B2022 Data communications and networking with TCP-IP protocol suite, forouzan MCGRAWHILL.pdf
 B2021 Network programming with Go, woodbeck NO-STARCH-PRESS.pdf
 
@@ -935,6 +969,8 @@ B2021 Real-world cryptography, wong MANNING.pdf
 B2017 Everyday Cryptography, martin OXFORD.pdf
 B2022 Essential Cryptography for JavaScript developers, Segala PACKT.pdf
 B2018 History of cryptography and cryptanalysis, dooley SPRINGER.pdf
+B2018 Serious cryptography, aumasson NO-STARCH-PRESS.pdf
+B2019 Practical cryptography in Python, nielson APRESS.pdf
 B2020 API Security in action, madden MANNING.pdf
 B2021 Keycloak, thorgersen PACKT.pdf
 B2018 Internet infrastructure, fox CRC.pdf
@@ -958,6 +994,7 @@ B2018 Digital Image Processing, gonzalez PEARSON.pdf
 B2020 Digital Image Processing using MATLAB, gonzalez OTHER.pdf
 B2014 Advanced digital imaging laboratory using MATLAB, yaroslavsky IOP.pdf
 B2011 Advanced biomedical image analysis, haidekker WILEY.pdf
+B2024 An introduction to image classification, toennies SPRINGER.pdf
 Introduction to Signal Processing:  An Overview (Lecture 1)
 Control Systems. Lecture 1: Introduction to Linear Control Systems
 Image Processing with C++: Ep. 1 - Setup
@@ -1393,6 +1430,7 @@ Mapping the Multiverse(?)
 What If Space And Time Are NOT Real?
 How One Line in the Oldest Math Text Hinted at Hidden Universes
 Gravitational Wave Background Discovered - Spacetime is Vibrating!
+The Most Fundamental Problem of Gravity is Solved(?)
 
 quantum
 there’s a reason there’s so many question marks
@@ -1479,6 +1517,7 @@ other
 B2012 Earth at night, NASA.pdf
 B2013 Stargazing, owens DUMMIES.pdf
 B2017 Astronomy, maran DUMMIES.pdf
+B2019 Origins, mobasher COGNELLA.pdf
 B2022 Astronomy, OPENSTAX.pdf
 B2014 Discovering the Universe, comins MACMILLAN.pdf
 B2010 Stellar evolution and nucleosynthesis, ryan CAMBRIDGE.pdf
@@ -1524,6 +1563,9 @@ B2019 An introduction to radio astronomy, burke CAMBRIDGE.pdf
 B2017 The philosophy of cosmology, chamcham CAMBRIDGE.pdf(?)
 B2009 Probing the new solar system, wilkinson CSIRO.pdf
 B2021 High energy cosmic rays, stanev SPRINGER.pdf
+B2012 New eyes on the sun, wilkinson SPRINGER.pdf
+B2018 The great silence, cirkovic OXFORD.pdf
+B2008 Three steps to the universe, garfinkle OTHER.pdf
 Lecture 1: Daily Motions of the Sky and The Celestial Sphere
 Introduction - 1a - Intro to Astronomy Sessions
 Space Science with Python - Part 1: Welcome Everyone!
@@ -1621,6 +1663,10 @@ B2021 A history of Biology, morange PRINCETON.pdf
 B2022 Quantitative Biology, kimura SPRINGER.pdf
 B2012 Biology workbook, kratz DUMMIES.pdf
 B2013 Laboratory manual for non-majors biology, perry CENGAGE.pdf
+B2006 The theoretical biologist’s toolbox, mangel CAMBRIDGE.pdf
+B2016 Fundamentals of human biology and health, murdock COGNELLA.pdf
+B2019 Integrating lecture and lab, king COGNELLA.pdf
+B2015 The human organism, weiss COGNELLA.pdf
 1. Introduction, Course Organization of MIT 7.016 Introductory Biology, Fall 2018
 All of Biology in 9 minutes
 AP®︎/College Biology
@@ -1708,6 +1754,7 @@ B2023 Revenge of the microbes, wilson WILEY.pdf
 B2018 Processes in microbial ecology, kirchman OXFORD.pdf
 B2014 Parasitism, goater CAMBRIDGE.pdf
 B2015 Parasitology, hofkin GARLAND.pdf
+B2021 Evolutionary parasitology, hempel OXFORD.pdf
 B2019 Bacterial virulence, maresso SPRINGER.pdf
 B2020 Marine microbiology, munn CRC.pdf
 B2018 A history of pesticides, matthews CABI.pdf
@@ -1914,6 +1961,7 @@ Psychedelics: a trip from mechanism to therapeutic potential?
 nutrition
 Babe are you ok ? You've barely even touched your chicken nuggets
 B2012 Essentials of human nutrition, mann OXFORD.pdf
+B2020 Where does all that food go, kowaltowski SPRINGER.pdf
 
 other
 B2016 Nutrition at a glance, sharma WILEY.pdf
@@ -1982,6 +2030,7 @@ B2013 Plant tissue culture, bhojwani SPRINGER.pdf
 B2013 Plant tissue culture, smith ELSEVIER.pdf
 B2010 Plant cell culture, davey WILEY.pdf
 B2020 Plant cell and tissue culture, neumann SPRINGER.pdf
+The Surprising Map of Plants
 Introduction to Botany
 PLANT CLADOGRAM
 Photosynthesis Under the Microscope
@@ -2090,6 +2139,7 @@ B2013 Human Labor and Birth, posner MC-GRAWHILL.pdf
 B2019 Discovering Human Sexuality, levay OXFORD.pdf
 B2021 Neuromuscular Fundamentals, sabah CRC.pdf
 B2012 Physiology of Sport and Exercise, kenney WILEY.pdf
+B2022 Molecular exercise physiology, sharples ROUTLEDGE.pdf
 B2014 Ultrastructure atlas of Human tissues, hossler WILEY.pdf
 B2005 Hair follicle, morioka SPRINGER.pdf
 B2015 Functional ultrastructure, pavelka SPRINGER.pdf
@@ -2099,6 +2149,7 @@ B2014 Energetic kinesiology, krebs OTHER.pdf(?)
 B2013 Vertebrate endocrinology, norris ELSEVIER.pdf
 B2017 An introduction to behavioral endocrinology, nelson OTHER.pdf
 B2019 Heart of the matter, terracciano SPRINGER.pdf
+B2014 Anatomy and physiology, pittman COGNELLA.pdf
 Introduction to Anatomy and Physiology
 Introduction to Histology
 Evolution, the history of life and how the tree of life is trying to kill us.
@@ -2237,6 +2288,8 @@ B2012 The archaeology of mind, panksepp NORTON-PRESS.pdf
 B2013 The peripheral mind, aranyosi OXFORD.pdf(?)
 B2018 The integrated nervous system, hendelman CRC.pdf
 B2004 Encephalo-peripheral nervous system, leblanc SPRINGER.pdf
+B2013 Neural engineering, he SPRINGER.pdf
+B2022 Alzheimer's disease decoded, sahyouni WORLD-SCIENTIFIC.pdf
 Electrophysiology 1 - History
 Libet's Challenge to Free Will | Short 1 of 2 from A Beginner's Guide To Neural Mechanisms
 Building Blocks of Memory in the Brain
@@ -2333,6 +2386,8 @@ B2014 Introduction to Biomaterials, agrawal CAMBRIDGE.pdf
 B2023 Laboratory manual for Biotechnology and laboratory science, seidman CRC.pdf
 
 other
+B2018 Introduction to biotechnology, thieman PEARSON.pdf
+B2011 Biotechnology, brown OTHER.pdf
 B1998 Cell separation, fisher OXFORD.pdf
 B2010 Practical cell analysis, pappas WILEY.pdf
 B2020 Biomaterials science, ratner ELSEVIER.pdf
@@ -2370,6 +2425,7 @@ B2020 Bioinformatics, baxevanis WILEY.pdf
 B2018 A First Course in Systems Biology, voit GARLAND.pdf
 
 other
+B2024 Systems medicine, alon CRC.pdf
 B2015 Python programming for biology, stevens CAMBRIDGE.pdf
 B2014 Computing for biologists, bush CAMBRIDGE.pdf
 B2022 Computational thinking for life scientists, chor CAMBRIDGE.pdf
@@ -2408,6 +2464,7 @@ B2015 Biomedical Signals and Sensors II, kaniusas SPRINGER.pdf
 B2019 Biomedical Signals and Sensors III, kaniusas SPRINGER.pdf
 B2012 Analysis and application of Analog Electronic Circuits to Biomedical Instrumentation, northrop CRC.pdf
 B2009 Label-free biosensors, cooper CAMBRIDGE.pdf
+B2019 Biomedical devices, lam SPRINGER.pdf
 Biomedical systems modelling and control - Lecture 1 - Signals and systems properties
 
 sciences - geology
@@ -2416,6 +2473,7 @@ B2010 Earth materials, hefferan WILEY.pdf
 B2018 Introducing Geology, park DUNEDIN.pdf
 B2018 The Geology companion, prost CRC.pdf
 B1992 Planet Earth, emiliani CAMBRIDGE.pdf
+Introduction to Geology
 
 other
 B2019 Earth materials, perkins CRC.pdf
@@ -2602,7 +2660,7 @@ B2014 Forest context and policies in Portugal, reboredo SPRINGER.pdf
 B2018 Ecological effects of electricity generation, storage and use, henderson CABI.pdf
 B2020 Trees and global warming, manning CAMBRIDGE.pdf
 B2021 Handbook of trait-based ecology, bello CAMBRIDGE.pdf
-B2006 The theoretical biologist’s toolbox, mangel CAMBRIDGE.pdf
+B2019 The ecology book, juniper DK.pdf
 Environmental Science 1 (Introduction)
 Dangers of artificial islands
 
@@ -2669,6 +2727,7 @@ I recently learned that waste heat will boil the oceans in about 400 years.(?)
 New Evidence We Are Entering An Ice Age Termination Event - EXPLAINED(?)
 
 other
+B2013 Introduction to weather and climate science, martin COGNELLA.pdf
 B2022 The physics of renewable energy, stutzmann SPRINGER.pdf
 B2009 Climate change, pittock CSIRO.pdf
 B2020 Introducing meteorology, shonk DUNEDIN.pdf
