@@ -21,7 +21,7 @@ B2020 Statistics for engineers and scientists, navidi MCGRAWHILL.pdf
 
 (cs)
 B2018 Foundations of computer science, forouzan CENGAGE.pdf(conceptual)
-B2021 How Computers Really Work, justice NO-STARCH-PRESS.pdf 
+B2021 How computers really work, justice NO-STARCH-PRESS.pdf 
 B2024 A pythonic adventure, anni MANNING.pdf
 B2017 Coding, abraham DUMMIES.pdf(web frontend)
 B2021 Go programming language, lee DUMMIES.pdf
@@ -43,7 +43,8 @@ B2022 Light-matter interaction, stenzel SPRINGER.pdf
 
 (eng)
 B2024 Understanding technological systems, krupczak SPRINGER.pdf
-B2007 Basic electricity, gussow SCHAUM.pdf
+B2024 ABCs of electronics, asadi APRESS.pdf
+B2017 Electronics, storey PEARSON.pdf
 B2023 Applied analog electronics, karplus WORLD-SCIENTIFIC.pdf
 B2016 Modern devices, joseph WILEY.pdf
 
@@ -145,6 +146,8 @@ B2022 Debating Multiculturalism, lenard OXFORD.pdf
 B2022 Is political authority an illusion, huemer ROUTLEDGE.pdf
 B2021 Absence and nothing, mumford OXFORD.pdf(?)
 B2020 Crooked thinking or straight talk, binmore SPRINGER.pdf(?)
+B2021 Why it's ok to make bad choices, glod ROUTLEDGE.pdf(?)
+B2010 Meaning in life and why it matters, wolf PRINCETON.pdf
 What is Philosophy?: Crash Course Philosophy #1
 Peter Singer - ordinary people are evil
 The Denial of Death | Part 1 - Fear of Death, Repression, Heroism
@@ -160,6 +163,7 @@ B2016 Ancestors, territoriality, and gods, wunn SPRINGER.pdf
 
 other
 B2020 Greek Myths, DK.pdf
+B2017 Mythos, fry OTHER.pdf
 B2013 The Religions book, DK.pdf
 B2019 Myths, legends, and sacred stories, DK.pdf
 B2013 The Blind Watchmaker, dawkins OTHER.pdf
@@ -188,6 +192,8 @@ economics
 learn about the ways people make money, instead of making it, for the time being
 B2022 Principles of Economics, OPENSTAX.pdf
 B2014 Quantitative Finance, davison CRC.pdf
+What Everyone Gets Wrong About Global Debt | Economics Explained
+Why Inequality Starts Becoming a Problem Now
 
 other
 B2021 Classical financial mathematics, luderer SPRINGER.pdf
@@ -212,6 +218,8 @@ B2023 Automated market makers, ottina APRESS.pdf
 B2023 Understanding crypto fundamentals, jeegers APRESS.pdf
 B2019 Programming Bitcoin, song REILLY.pdf
 B2011 Investing demystified, lim MCGRAWHILL.pdf
+B2021 Why it's ok to want to be rich, brennan ROUTLEDGE.pdf(?)
+B2016 Between debt and the devil, turner PRINCETON.pdf
 Interest and the Amount Function
 Capitalism is good. Let me explain.
 Is Economics a Science or Pseudoscience?
@@ -226,6 +234,7 @@ cursed topic
 B2022 Introduction to Political Science, OPENSTAX.pdf
 
 other
+B2023 How worlds collapse, centeno ROUTLEDGE.pdf
 B2017 This Is Political Philosophy, Tuckness WILEY.pdf
 B2020 Mathematics to the rescue of Democracy, serafini SPRINGER.pdf
 B2013 The politics of immigration, hampshire OTHER.pdf
@@ -236,6 +245,12 @@ B2023 The globalization of world politics, baylis OXFORD.pdf
 B2022 Introduction to international relations, sorensen OXFORD.pdf
 B2013 International relations theories, dunne OXFORD.pdf
 B2022 Theories of international relations, devetak OTHER.pdf
+B2010 Why the west rules, for now, morris OTHER.pdf
+B2013 The measure of civilization, morris PRINCETON.pdf
+B2022 Campaigns, elections, and the threat to democracy, johnson OXFORD.pdf
+B2022 Psychology of democracy, weinberg CAMBRIDGE.pdf
+B2016 Against democracy, brennan PRINCETON.pdf(?)
+2023 The psychological causes and societal consequences of authoritarianism, osborne.pdf
 Introduction to Political Philosophy by Alexander Koryagin | COURSERA
 SOCIALISM: An In-Depth Explanation
 Universal Basic Income (UBI)
@@ -287,7 +302,7 @@ dismiss yourself - YouTube
 
 sports
 B2020 Sports book, DK.pdf
-
+B2018 The anthropology of sport, besnier OTHER.pdf
 memes
 Know Your Meme
 r/copypasta icon
@@ -311,6 +326,7 @@ B2022 Mathematical methods and physical insights, schramm CAMBRIDGE.pdf
 B2020 Modern engineering mathematics, james PEARSON.pdf
 B2018 Advanced modern engineering mathematics, james PEARSON.pdf
 B2021 X marks the spot, garfinkle CRC.pdf
+B2023 Finite mathematics and applied calculus, waner CENGAGE.pdf
 
 other
 B2023 Engineering mathematics by example vol1, sobot SPRINGER.pdf
@@ -442,6 +458,7 @@ B2022 Practical Finite Element Simulations with SOLIDWORKS 2022, mustapha PACKT.
 B2017 A First Course in the Finite Element Method, logan CENGAGE.pdf
 B2018 Finite Element computations in mechanics with R, mustapha CRC.pdf
 B2023 Finite element and finite volume methods for heat transfer and fluid dynamics, reddy CAMBRIDGE.pdf
+B2024 High-order finite difference and finite element methods for solving some partial differential equations, vandadoo SPRINGER.pdf
 Understanding the Finite Element Method
 On Neural Differential Equations
 Jeff Suzuki - Differential equations
@@ -455,6 +472,7 @@ B2023 An introduction to scientific computing, postel SPRINGER.pdf
 B2023 Applied numerical analysis with MATLAB-Simulink, asadi SPRINGER.pdf
 B2024 Practical Julia, phillips NO-STARCH-PRESS.pdf
 B2016 Introduction to mathematical biology, friedman SPRINGER.pdf
+B2023 Mathematical modeling for epidemiology and ecology, ledder SPRINGER.pdf
 
 other
 B2016 Scientific models, gerlee SPRINGER.pdf
@@ -488,13 +506,13 @@ B2020 A first course in Network Science, davis CAMBRIDGE.pdf
 B2023 Algorithmic information dynamics, zenil CAMBRIDGE.pdf
 B2022 Numerical analysis on time scales, georgiev GRUYTER.pdf(?)
 B2024 Clean numerical simulation, liao CRC.pdf(?)
+B2021 Computer algebra, koepf SPRINGER.pdf
 B2002 Computer algebra and symbolic computation, book 1 cohen CRC.pdf
 B2003 Computer algebra and symbolic computation, book 2 cohen CRC.pdf
 B2021 Engineering applications, matlab marghitu WILEY.pdf
 B2009 Mathematical and experimental modeling of physical and biological processes, banks CRC.pdf
 B1999 Modeling the environment, ford OTHER.pdf
 B2014 Mathematical modeling of biological processes, friedman SPRINGER.pdf
-B2023 Mathematical modeling for epidemiology and ecology, ledder SPRINGER.pdf
 B2022 Introduction to modeling and numerical methods for biomedical and chemical engineers, matlab gatzke SPRINGER.pdf
 B2014 Modeling dynamic biological systems, hannon SPRINGER.pdf
 B2021 Mathematical models in the biosciences I, frame NONE.pdf
@@ -516,6 +534,7 @@ discrete
 B2018 Discrete mathematics for computer science, nowell WILEY.pdf
 
 other
+B2024 Discrete mathematics, tourlakis SPRINGER.pdf
 B2023 Mathematical logic, cunningham GRUYTER.pdf
 B2020 Discrete Mathematics with applications, epp CENGAGE.pdf
 B2009 Logic for philosophy, sider OXFORD.pdf
@@ -666,6 +685,7 @@ Blue Screens of Death Explained
 Windows 10 and 11 Wont Boot, How To Fix UEFI Partition
 TIOBE Index
 Khan academy - Computer programming
+Developer Roadmaps
 
 in pt
 COMO INSTALAR SSD NO PC DA FORMA CERTA E FÁCIL(não foi fácil)
@@ -697,6 +717,7 @@ Installing Eclipse CDT and MinGW
 html, js, css
 Well, JS is trash but unavoidable (html, css, js is the only way to start with the web stuff). After knowing that (and making your vanilla portfolio or smt) if you want a job in frontend you will most likely have to learn one of the frameworks, like React. Imo Flutter is better but consider the market demand.
 B2018 Learning Web Design, robbins REILLY.pdf
+B2024 The complete developer, krause NO-STARCH-PRESS.pdf
 
 other
 B2023 JavaScript, minnick DUMMIES.pdf
@@ -751,7 +772,7 @@ B2022 Hands-on Software Architecture with Java, bonocore PACKT.pdf
 B2021 Spring start here, spilca MANNING.pdf
 B2021 The definitive guide to modernizing applications on Google Cloud, sangapu PACKT.pdf
 B2018 Get programming with Go, youngman MANNING.pdf
-B2021 Learning Go, bodner REILLY.pdf
+B2024 Learning Go, bodner REILLY.pdf
 B2021 Distributed services with Go, jeffery PRAGMATIC-PROGRAMMERS.pdf
 Build JavaScript ECommerce Website Like Amazon For Beginners [2022]
 Ecommerce Website HTML CSS Javascript - Complete Responsive Multipage
@@ -783,6 +804,7 @@ Learn Flask for Python - Full Tutorial
 
 other
 B2018 Begin to code with Python, miles PEARSON.pdf
+B2023 A course in Python, hazrat SPRINGER.pdf
 B2021 Learn Python visually, bunn NO-STARCH-PRESS.pdf
 B2022 Object-oriented Python, kalb NO-STARCH-PRESS.pdf
 B2021 Exercises in programming style, lopes CRC.pdf
@@ -864,6 +886,10 @@ B2023 Multiplayer game development with Unreal Engine 5, secchi PACKT.pdf
 B2023 The essential guide to creating multiplayer games with Godot 4.0, campos PACKT.pdf
 B2013 Learn HTML5 by creating fun games, silveira PACKT.pdf
 B2015 Multiplayer game development with HTML5, silveira PACKT.pdf
+B2013 Physics for game developers, bourg REILLY.pdf
+B2004 Physics modeling for game programmers, conger OTHER.pdf
+B2014 Physics for JavaScript games, animation, and simulations, ramtal APRESS.pdf
+Programming a first person shooter from scratch like it's 1995
 Build a Game with JavaScript and HTML Canvas [RPG Kit series]
 COMP4300 - C++ Game Programming - Lecture 01 - Course Introduction
 Gaming in Go: Episode 1 - Introduction
@@ -934,6 +960,7 @@ B2021 Essentials of pattern recognition, wu CAMBRIDGE.pdf
 B2017 Machine learning with Go, whitenack PACKT.pdf
 B2024 Deep learning, bishop SPRINGER.pdf
 B2023 Machine learning for engineers, simeone CAMBRIDGE.pdf
+B2021 Ripple-down rules, compton CRC.pdf
 Machine Learning in C (Episode 1)
 No Black Box Machine Learning Course – Learn Without Libraries
 Machine Learning for Everybody – Full Course
@@ -984,6 +1011,7 @@ B2020 Signals and systems, hsu SCHAUM.pdf
 B2012 An interdisciplinary introduction to Image Processing, tanimoto MIT.pdf
 
 other
+B2024 Digital signals theory, mcfee CRC.pdf
 B2020 Linear feedback controls, haidekker ELSEVIER.pdf
 B2014 Feedback and Control Systems, disteffano SCHAUM.pdf
 B2022 Rudiments of Signal Processing and Systems, moir SPRINGER.pdf
@@ -1032,6 +1060,7 @@ The Royal Society - YouTube
 Quanta Magazine - YouTube
 TED - YouTube
 MIT OpenCourseWare - YouTube
+Science X: Phys.org, Medical Xpress, Tech Xplore - YouTube
 Science
 
 in pt
@@ -1039,6 +1068,7 @@ Prof. Guilherme Goulart - Biologia - YouTube
 RTP Ensina
 Estudo em Casa - RTP
 4 x Ciência – RTP Arquivos
+Casa das Ciências
 
 sciences - physics
 the foundation science comes with abstract wording, which is tough
@@ -1162,20 +1192,25 @@ Lecture 1: Basic concepts
 
 electronics
 probably the most down-to-earth non-trivial physics. Do people actually know what they are doing? The average high voltage worker who isn’t dead yet is behind the curve
-B2007 Basic Electricity, gussow SCHAUM.pdf
-B2023 Beginning Breadboarding, fox APRESS.pdf
+B2024 ABCs of electronics, asadi APRESS.pdf
+B2007 Basic electricity, gussow SCHAUM.pdf
+B2023 Beginning breadboarding, fox APRESS.pdf
+B2017 Electronics, storey PEARSON.pdf
 B2023 Applied analog electronics, karplus WORLD-SCIENTIFIC.pdf
 B2024 Applied embedded electronics, twomey REILLY.pdf
-B2023 Introduction to Mechatronics, samanta SPRINGER.pdf
-B2022 Digital Design and Computer Architecture, patterson ELSEVIER.pdf
+B2023 Introduction to mechatronics, samanta SPRINGER.pdf
+B2012 Digital electronics, kleitz PEARSON.pdf
+B2022 Digital design and computer architecture, patterson ELSEVIER.pdf
 
 other
 B2023 Electric circuits laboratory manual, asadi SPRINGER.pdf
 B2023 Analog electronic circuits laboratory manual, asadi SPRINGER.pdf
 B2024 Digital circuits laboratory manual, asadi SPRINGER.pdf
+B2018 Digital logic and microprocessor design with interfacing, hwang CENGAGE.pdf
 B2020 Electronics, shamieh DUMMIES.pdf
 B2016 Grob basic Electronics, schultz MC-GRAWHILL.pdf
 B2009 The complete lab manual for electricity, herman CENGAGE.pdf
+B2005 Foundations of analog and digital electronic circuits, agarwal ELSEVIER.pdf
 B2022 Getting started with Arduino, banzi MAKE.pdf
 B2017 Learn Electronics with Arduino, culkin MAKE.pdf
 B2020 Exploring Arduino, blum WILEY.pdf
@@ -1186,40 +1221,42 @@ B2022 Arduino IV, barrett MORGAN&CLAYPOOL.pdf
 B2023 Arduino V, barrett MORGAN&CLAYPOOL.pdf
 B2009 Bebop to the boolean boogie, maxfield NEWNES.pdf
 B2011 Electricity for Refrigeration, Heating and Air Conditioning, smith CENGAGE.pdf
-B2018 Electric Circuits, kang CENGAGE.pdf
-B2015 Microelectronic Circuits, sedra OXFORD.pdf
+B2018 Electric circuits, kang CENGAGE.pdf
+B2015 Microelectronic circuits, sedra OXFORD.pdf
 B2019 Mechatronics, bolton PEARSON.pdf
-B2016 Practical Electronics for Inventors, monk MC-GRAWHILL.pdf
-B2018 Electronics Explained, Frenzel NEWNES.pdf
-B2016 The analysis and design of Linear Circuits, toussaint WILEY.pdf
+B2011 Introduction to mechatronic design, kenny PEARSON.pdf
+B2016 Practical electronics for inventors, monk MC-GRAWHILL.pdf
+B2018 Electronics explained, Frenzel NEWNES.pdf
+B2016 The analysis and design of linear circuits, toussaint WILEY.pdf
 B2023 Open circuits, schlaepfer NO-STARCH-PRESS.pdf
 B2018 Robot, DK.pdf
-B2019 Learn Robotics with Raspberry Pi, NO-STARCH-PRESS.pdf
-B2023 Practical Arduino Robotics, kaul PACKT.pdf
+B2019 Learn robotics with Raspberry Pi, NO-STARCH-PRESS.pdf
+B2023 Practical Arduino robotics, kaul PACKT.pdf
 B2005 Robotics demystified, wise MCGRAWHILL.pdf
-B2019 Modern Robotics, lynch OTHER.pdf
-B2023 Robotics, Vision and Control, corke SPRINGER.pdf
-B2018 A Systematic Approach to Learning Robot Programming with ROS, newman CRC.pdf
+B2024 Build your own robot, alsabbagh MANNING.pdf
+B2019 Modern robotics, lynch OTHER.pdf
+B2023 Robotics, vision and control, corke SPRINGER.pdf
+B2018 A systematic approach to learning robot programming with ROS, newman CRC.pdf
 B2014 Sensors, karvinen MAKE.pdf
 B2020 Sensors, actuators, and their interfaces, ida IET.pdf
-B2024 A hands-on course in Sensors using the Arduino and Raspberry Pi, ziemann CRC.pdf
+B2024 A hands-on course in sensors using the Arduino and Raspberry Pi, ziemann CRC.pdf
 B2021 Analog Circuit Simulators for Integrated Circuit Designers, sahrling SPRINGER.pdf
-B2021 Troubleshooting & Maintaining PCs, gookin DUMMIES.pdf
+B2021 Troubleshooting & maintaining PCs, gookin DUMMIES.pdf
 B2021 Logic Gates, Circuits, Processors, Compilers and Computers, groote SPRINGER.pdf
-B2012 Digital Electronics, kleitz PEARSON.pdf
-B2021 Fundamentals of Logic Design, roth CENGAGE.pdf
+B2017 Digital systems, tocci PEARSON.pdf
+B2021 Fundamentals of logic design, roth CENGAGE.pdf
 B2023 Build autonomous mobile robot from scratch using ROS, subramanian APRESS.pdf
 B2020 Robot modeling and control, spong WILEY.pdf
 B2008 Car science, DK.pdf
 B2020 Automotive technology, erjavec CENGAGE.pdf
 B2021 Designing Electronics that work, scott NONE.pdf
-B2016 Electrical Measurements in the Laboratory Practice, bartiromo SPRINGER.pdf
+B2016 Electrical measurements in the laboratory practice, bartiromo SPRINGER.pdf
 B2020 Oscilloscopes, herres SPRINGER.pdf
-B2020 Practical Python Programming for IoT, smart PACKT.pdf
-B2021 A geek girl's guide to Electronics and the Internet of Things, shea WILEY.pdf
+B2020 Practical Python programming for IoT, smart PACKT.pdf
+B2021 A geek girl's guide to electronics and the internet of things, shea WILEY.pdf
 B2023 Let's get IoT-fied!, juluru CRC.pdf
-B2023 Implementing Cellular IoT solutions for digital transformation, mccain PACKT.pdf
-B2023 Industrial Automation from scratch, akande PACKT.pdf
+B2023 Implementing cellular IoT solutions for digital transformation, mccain PACKT.pdf
+B2023 Industrial automation from scratch, akande PACKT.pdf
 B2013 Technician's guide to Programmable Controllers, borden CENGAGE.pdf
 B2017 Understanding Automotive Electronics, ribbens ELSEVIER.pdf
 B2022 Introduction to Microprocessor-based Systems Design, donzellini SPRINGER.pdf
@@ -1232,7 +1269,9 @@ B2010 Digital integrated circuits, ayers CRC.pdf
 PHYS 102 | Charge 1 - Microscopic Charges
 SRS 1.1 Motivation of the course
 LESSON 1: Simple Introduction to the Arduino
+Watch electricity hit a fork in the road at half a billion frames per second
 Building a Generator
+How does your mobile phone work? | ICT #1
 Are "fair phones" really fair?
 The Idiot's Guide to Making a DIY Drone! (I am the Idiot)
 Youtube - Applied Analog Electronics Part A
@@ -1257,6 +1296,7 @@ electricity and magnetism are the same thing
 
 optics, imaging, radiation
 B2020 Light science, rossing SPRINGER.pdf
+B2023 Light and waves, andrews SPRINGER.pdf
 B2023 Imaging life, griffing WILEY.pdf
 
 other
@@ -1305,16 +1345,21 @@ engineering
 for those sorts of people who actually want to build stuff…
 B2020 Shigley's Mechanical Engineering Design, budynas MC-GRAWHILL.pdf
 B2017 Engineering Drawing and Design, madsen CENGAGE.pdf
+B2022 Learn Solidworks 2022, almattar PACKT.pdf
 B2016 Modern devices, joseph WILEY.pdf
 B2024 Understanding technological systems, krupczak SPRINGER.pdf
 
 other
+B2021 Bicycle repair manual, DK.pdf
+B2014 Manufacturing and design, tempelman ELSEVIER.pdf
+B2020 Fundamentals of Modern Manufacturing, groover WILEY.pdf
 B2020 Product design and development, ulrich MCGRAWHILL.pdf
+B2023 Computer aided design, nyemba CRC.pdf
 B2021 Exploring Engineering, kosky ELSEVIER.pdf
 B2013 Engineering design graphics, leake WILEY.pdf
-B2020 Fundamentals of Modern Manufacturing, groover WILEY.pdf
 B2015 Machine Tool practices, kibbe PEARSON.pdf
 B2018 How your House works, wing WILEY.pdf
+B2011 Basic blueprint reading and sketching, olivo CENGAGE.pdf
 B2000 Engineering the city, levy OTHER.pdf
 B2019 Man-made wonders of the world, DK.pdf
 B2012 Construction science and materials, virdi WILEY.pdf
@@ -1326,6 +1371,7 @@ B2010 Understanding construction drawings, huth CENGAGE.pdf
 B2021 Woodwork step by step, DK.pdf
 B2020 SketchUp, fane DUMMIES.pdf
 B2011 Architectural drafting and design, jefferis CENGAGE.pdf
+B2024 Mastering digitally controlled machines, molenaar APRESS.pdf
 B2018 Design for CNC, filson MAKE.pdf
 B2022 Simplifying 3D Printing with OpenSCAD, dow PACKT.pdf
 B2010 DIY, howell DUMMIES.pdf
@@ -1335,6 +1381,7 @@ B2010 Carpentry & Construction, miller MCGRAWHILL.pdf
 B2011 Fundamentals of residential construction, allen WILEY.pdf
 B2013 The complete visual guide to building a house, lockhart OTHER.pdf
 B2014 Machining and CNC technology, fitzpatrick MCGRAWHILL.pdf
+B2018 Machining, hanson DUMMIES.pdf
 B2017 Theory of Machines and Mechanisms, uicker OXFORD.pdf
 B2021 Building your custom home, daum DUMMIES.pdf
 B2019 Buildings across time, fazio MCGRAWHILL.pdf
@@ -1377,6 +1424,7 @@ B2011 Modeling Materials, tadmor CAMBRIDGE.pdf
 B2012 Continuum mechanics and thermodynamics, tadmor CAMBRIDGE.pdf
 B2019 Materials, ashby ELSEVIER.pdf
 B2021 Understanding Solid State Physics, holgate CRC.pdf
+B2023 Understanding semiconductors, richard APRESS.pdf
 B2022 Introduction to semiconductor physics and devices, evstigneev SPRINGER.pdf
 B2014 Solid State Chemistry and its applications, west WILEY.pdf
 B2008 Introduction to Nanoscience, hornyak CRC.pdf
@@ -1437,6 +1485,7 @@ there’s a reason there’s so many question marks
 B2022 Particles, fields and forces, schmitz SPRINGER.pdf
 B2009 Quantum mechanics, zettili WILEY.pdf
 B2010 Quantum mechanics, hecht SCHAUM.pdf
+B2013 Quantum theory for mathematicians, hall SPRINGER.pdf
 B2022 Light-matter interaction, stenzel SPRINGER.pdf
 B2023 Fundamentals of particle physics, paganini CAMBRIDGE.pdf
 
@@ -1489,6 +1538,7 @@ B2020 Finite mathematics as the foundation of classical mathematics and quantum 
 B2023 Superatoms, gaston CRC.pdf
 B2005 Information and its role in nature, roederer SPRINGER.pdf
 B2017 Light and vacuum, meis  WORLD-SCIENTIFIC.pdf(?)
+B2022 What is a quantum field theory, talagrand CAMBRIDGE.pdf
 The Iceberg of Quantum Physics Explained
 Chapter 1: Stern Gerlach Experiments
 Quantum Physics Full Course | Quantum Mechanics Course
@@ -1712,6 +1762,8 @@ Molecular Biology Techniques
 The 6 Largest Single Cell Organisms
 Biology's Huge, Microscopic Problem
 Seeing Cell Division Like Never Before
+How NOT To Think About Cells
+NanoRooms - YouTube
 Methods in Molecular Biology | Book titles in this series
 
 microbiology + parasitology
@@ -1844,6 +1896,7 @@ Darwin and rocks someone says was ancient poop and the like
 B2021 The evolving Earth, prothero OXFORD BAD-QUALITY.pdf
 B2016 Historical Geology, monroe CENGAGE.pdf
 B2017 Evolution, futuyma OTHER.pdf
+B2018 How Humans evolved, boyd NORTON.pdf
 B2022 Introduction to Anthropology, OPENSTAX.pdf
 B2019 Introducing palaeontology, jackson DUNEDIN.pdf
 B2010 Fossils at a glance, milsom WILEY.pdf
@@ -1898,6 +1951,7 @@ B2022 Early life on Earth, sugitani CRC.pdf
 B2021 The evolutionary biology of extinct and extant organisms, kundu ELSEVIER.pdf
 B2014 Evolutionary biology, thompson CAMBRIDGE.pdf
 B2010 The evolutionary biology of human body fatness, wells CAMBRIDGE.pdf
+B2021 Introducing archaeology, muckle OTHER.pdf
 How good is the fossil record?
 Lecture 1: The Rise of Animals
 These Fossils Were Supposed To Be Impossible
@@ -1980,6 +2034,7 @@ B2023 Introductory science of alcoholic beverages, kuno CRC.pdf
 B2019 Animal nutrition, hynd CABI.pdf
 B2023 Diet impacts on brain and mind, stevenson CAMBRIDGE.pdf
 B2017 Sustainable protein sources, nadathur ELSEVIER.pdf
+B2019 Ethical vegetarianism and veganism, linzey ROUTLEDGE.pdf
 2021 Veganism, moral motivation and false consciousness, pickett.pdf
 An Overview of Science of Nutrition
 Making the world's most expensive carbonated water!
@@ -2114,6 +2169,7 @@ Portugal Selvagem
 anatomy + physiology
 fleshy stuff
 B2011 Visualizing Anatomy and Physiology, tortora WILEY.pdf
+B2005 Environmental physiology of animals, willmer WILEY.pdf
 
 other
 B2007 Human physiology, mclaughlin BIOS.pdf
@@ -2262,7 +2318,9 @@ B2021 Principles of neural science, kandel MC-GRAWHILL.pdf
 B2013 Neurosciences, galizia SPRINGER.pdf
 B2016 Brain and Behavior, eagleman OXFORD.pdf
 B2020 Cognitive Science, bermudez CAMBRIDGE.pdf
+B2014 An introduction to cognitive psychology, groome ROUTLEDGE.pdf
 B2019 Cognitive Neuroscience, gazzaniga OTHER.pdf
+B2019 Introduction to neural and cognitive modeling, levine ROUTLEDGE.pdf
 B2020 Computational Cognitive Neuroscience, reilly NONE.pdf
 B2014 Analyzing Neural Time Series Data, cohen MIT.pdf
 B2021 Prostheses for the Brain, kral ELSEVIER.pdf
@@ -2290,6 +2348,14 @@ B2018 The integrated nervous system, hendelman CRC.pdf
 B2004 Encephalo-peripheral nervous system, leblanc SPRINGER.pdf
 B2013 Neural engineering, he SPRINGER.pdf
 B2022 Alzheimer's disease decoded, sahyouni WORLD-SCIENTIFIC.pdf
+B2021 Overloaded, smith OTHER.pdf
+B2013 Visual attention and consciousness, friedenberg ROUTLEDGE.pdf
+B2013 Visual perception, wade ROUTLEDGE.pdf
+B2015 Reasoning as memory, feeney ROUTLEDGE.pdf
+B2016 Social neuroscience, jones ROUTLEDGE.pdf
+B2017 The student's guide to social neuroscience, ward ROUTLEDGE.pdf
+B2023 Social and affective neuroscience of everyday human interaction, boggio SPRINGER.pdf
+B2018 The neuroscience of empathy, compassion, and self-compassion, stevens ELSEVIER.pdf(?)
 Electrophysiology 1 - History
 Libet's Challenge to Free Will | Short 1 of 2 from A Beginner's Guide To Neural Mechanisms
 Building Blocks of Memory in the Brain
@@ -2312,12 +2378,14 @@ B2016 Psychiatry at a glance, katona WILEY.pdf
 B2004 Physiological psychology, wagner BIOS.pdf
 B2004 Cognitive psychology, andrade BIOS.pdf
 B2020 Psychology, OPENSTAX.pdf
+B2016 Concrete human psychology, roth ROUTLEDGE.pdf
 B2021 Introduction to Sociology, OPENSTAX.pdf
 B2018 Psychology around us, comer WILEY.pdf
 B2015 Principles of Psychology, breedlove OXFORD.pdf
 B2013 Having sex, wanting intimacy, weber OTHER.pdf
 B2017 Essentials of understanding abnormal behavior, sue CENGAGE.pdf
 B2015 Abnormal Psychology, comer MACMILLAN.pdf
+B2015 Abnormal child and adolescent psychology with DSM-V updates, nelson ROUTLEDGE.pdf
 B2013 An introduction to theories of Learning, olson ROUTLEDGE.pdf
 B2015 The principles of Learning and Behavior, domjan CENGAGE.pdf
 B2012 Learning Theories, schunk PEARSON.pdf
@@ -2325,6 +2393,8 @@ B2021 Theories of personality, feist MCGRAWHILL.pdf
 B2020 Personality psychology, larsen MCGRAWHILL.pdf
 B2019 Understanding Human Behavior and the Social Environment, zastrow CENGAGE.pdf
 B2016 Evolution and Human Behaviour, cartwright PALGRAVE.pdf
+B2014 Principles of behavior, malott ROUTLEDGE.pdf
+B2014 The new behaviorism, staddon ROUTLEDGE.pdf
 B2011 Essential building blocks of human nature, frey SPRINGER.pdf
 B2010 Homo novus, frey SPRINGER.pdf
 B2012 Humans on Earth, santos SPRINGER.pdf
@@ -2340,6 +2410,8 @@ B2020 Groupthink in science, allen SPRINGER BAD-QUALITY.pdf
 B2018 Motivation, deckers ROUTLEDGE.pdf
 B2020 Asking animals, nielsen CABI.pdf
 B2017 Psychology of emotion, niedenthal ROUTLEDGE.pdf
+B2022 Demystifying emotions, moors CAMBRIDGE.pdf
+B2021 Evolutionary psychology, workman CAMBRIDGE.pdf
 B2018 Beyond evolutionary psychology, solms CAMBRIDGE.pdf
 B2012 The biology of happiness, grinde SPRINGER.pdf(?)
 B2012 Sex-gender, sterling ROUTLEDGE.pdf
@@ -2349,6 +2421,14 @@ B2012 Autism, murray ROUTLEDGE.pdf
 B2012 Depression, lewis ROUTLEDGE.pdf
 B2014 Pain and suffering, schleifer ROUTLEDGE.pdf
 B2020 Purposeful pain, sheridan SPRINGER.pdf
+B2013 A history of psychology, king PEARSON.pdf
+B2021 History of psychology, boyle ROUTLEDGE.pdf
+B2014 Child abuse and neglect, mccoy ROUTLEDGE.pdf
+B2015 Intelligence and abilities, cooper ROUTLEDGE.pdf
+B2015 Social psychology, smith ROUTLEDGE.pdf
+B2017 Reflective and impulsive determinants of human behavior, deutsch ROUTLEDGE.pdf
+B2019 Group dynamics, forsyth CENGAGE.pdf
+B2022 Evil in mind, burris OXFORD.pdf
 1. Introduction to Human Behavioral Biology
 Learning Online
 What Does IQ Actually Measure?
@@ -2465,6 +2545,7 @@ B2019 Biomedical Signals and Sensors III, kaniusas SPRINGER.pdf
 B2012 Analysis and application of Analog Electronic Circuits to Biomedical Instrumentation, northrop CRC.pdf
 B2009 Label-free biosensors, cooper CAMBRIDGE.pdf
 B2019 Biomedical devices, lam SPRINGER.pdf
+B2023 Biomedical engineering design, tranquillo ELSEVIER.pdf
 Biomedical systems modelling and control - Lecture 1 - Signals and systems properties
 
 sciences - geology
@@ -2504,6 +2585,7 @@ https://www.youtube.com/@colinkolbus/videos
 https://www.youtube.com/@BBCEarthLab
 Geology.com
 Google Earth
+Teach the Earth
 
 in pt
 Porque é que há diferentes tipos de vulcões?
@@ -2602,9 +2684,11 @@ environment + ecology
 high-level generalities with high-impact consequences
 B2008 Ecology, krebs PEARSON.pdf
 B2012 Introduction to environmental geology, keller PEARSON.pdf
+B2023 Environmental engineering and sustainable design, striebig CENGAGE.pdf
 
 other
 B2010 Ecology laboratory manual, vodopich MCGRAWHILL.pdf
+B2017 Learning landscape ecology, gergel SPRINGER.pdf
 B2001 Ecology, mackenzie BIOS.pdf
 B2008 The ecological world view, krebs CSIRO.pdf
 B2021 Ecology, townsend WILEY.pdf
@@ -2640,6 +2724,9 @@ B2009 Natural resource conservation, chiras PEARSON.pdf
 B2022 Elements and Mineral resources, sanz SPRINGER.pdf
 B2020 The world of mineral deposits, neukirchen SPRINGER.pdf
 B2013 Ore deposit geology, ridley CAMBRIDGE.pdf
+B1989 Introduction to practical ore microscopy, ineson ROUTLEDGE.pdf
+B1994 Ore microscopy and ore petrography, craig WILEY.pdf
+B2023 A practical guide to ore microscopy, vol2 castroviejo SPRINGER.pdf
 B2015 Mineral resources, economics and the environment, kesler CAMBRIDGE.pdf
 B2011 Economic geology, pohl WILEY.pdf
 B2013 Simulation of ecological and environmental models, acevedo CRC.pdf
@@ -2661,6 +2748,7 @@ B2018 Ecological effects of electricity generation, storage and use, henderson C
 B2020 Trees and global warming, manning CAMBRIDGE.pdf
 B2021 Handbook of trait-based ecology, bello CAMBRIDGE.pdf
 B2019 The ecology book, juniper DK.pdf
+B2015 Foragers, farmers, and fossil fuels, morris PRINCETON.pdf
 Environmental Science 1 (Introduction)
 Dangers of artificial islands
 
@@ -2730,6 +2818,7 @@ other
 B2013 Introduction to weather and climate science, martin COGNELLA.pdf
 B2022 The physics of renewable energy, stutzmann SPRINGER.pdf
 B2009 Climate change, pittock CSIRO.pdf
+B2023 The climate crisis, aron CAMBRIDGE.pdf
 B2020 Introducing meteorology, shonk DUNEDIN.pdf
 B2009 Sustainable Energy, mackay CAMBRIDGE.pdf
 B2018 Climatology, rohli JONES&BARTLETT.pdf
@@ -2786,6 +2875,8 @@ B2016 The rare earth elements, voncken SPRINGER.pdf
 B2020 Transport of infrared atmospheric radiation, smirnov GRUYTER.pdf(?)
 B2014 The Holocene, roberts WILEY.pdf
 B2010 The great ocean conveyor, broecker PRINCETON.pdf
+B2019 Power generation technologies, breeze NEWNES.pdf
+B2017 Alternative energy systems and applications, hodge WILEY.pdf
 2023 Rock organic carbon oxidation CO2 release offsets silicate weathering sink, zondervan.pdf
 Has Global Warming Happened Before? Earth's History With Climate Change
 How Pangea Might Have Caused a Climate Crisis
@@ -2808,6 +2899,7 @@ B2023 Hydrogeology 101, kresic OTHER.pdf
 B2005 Hydrology, brutsaert CAMBRIDGE.pdf
 B2019 Water resources, hornberger OTHER.pdf
 B1996 Introducing groundwater, price SPRINGER.pdf
+B2013 Groundwater science, fitts ELSEVIER.pdf
 B2013 Groundwater around the world, margat CRC.pdf
 B2009 Groundwater resources, kresic MCGRAWHILL.pdf
 B2023 Laboratory manual for groundwater, wells, and pumps, kumar CRC.pdf
@@ -2831,6 +2923,8 @@ B2012 Physical oceanography, madani CRC.pdf
 B2021 Ocean currents, sebille ELSEVIER.pdf
 B2016 Hydrometeorology, collier WILEY.pdf
 B2020 Mysterious ocean, harris SPRINGER.pdf
+B2020 Water quality, boyd SPRINGER.pdf
+B2008 Drinking water quality, gray CAMBRIDGE.pdf
 B2019 Drinking water minerals and mineral balance, rosborg SPRINGER.pdf
 Physical Hydrology Lecture 1: Introduction
 Field Methods in Hydrology, Chapter 1, part 1
@@ -2938,9 +3032,11 @@ B2016 Landforms of the earth, gutierrez SPRINGER.pdf
 B2020 Landscapes and landforms of Portugal, vieira SPRINGER.pdf
 
 other
+B2006 Physical processes in earth and environmental sciences, leeder WILEY.pdf
 B1991 Global geomorphology, summerfield  ROUTLEDGE.pdf
 B2007 Visualizing Physical Geography, strahler WILEY.pdf
 B2021 Introducing Volcanology, jerram OTHER.pdf
+B2007 Environmental sedimentology, perry WILEY.pdf
 B2019 Introducing Stratigraphy, lyle DUNEDIN.pdf
 B2010 Erosion and sedimentation, julien CAMBRIDGE.pdf
 B2010 Earth environments, huddart WILEY.pdf
