@@ -191,13 +191,17 @@ The Last Human – A Glimpse Into The Far Future
 economics
 learn about the ways people make money, instead of making it, for the time being
 B2022 Principles of Economics, OPENSTAX.pdf
+B2022 Principles of microeconomics, kolmar SPRINGER.pdf
 B2014 Quantitative Finance, davison CRC.pdf
 What Everyone Gets Wrong About Global Debt | Economics Explained
 Why Inequality Starts Becoming a Problem Now
 
 other
+B2018 Workbook for principles of microeconomics, kolmar SPRINGER.pdf
 B2021 Classical financial mathematics, luderer SPRINGER.pdf
 B2012 Maths for Economics, renshaw OXFORD.pdf
+B2023 Elements of mathematics for economics and finance, mavron SPRINGER.pdf
+B2011 Mathematics for economics, hoy MIT-PRESS.pdf
 B2022 Introduction to Mathematics for economics with R, porto SPRINGER.pdf
 B2023 Hands-on data analysis in R for finance, collard CRC.pdf
 B2022 Principles of Microeconomics, OPENSTAX.pdf
@@ -212,6 +216,7 @@ B2011 Measuring inequality, cowell OXFORD.pdf
 B2022 The future of the professions, susskind OXFORD.pdf(?)
 B2022 Slouching towards utopia, delong OTHER.pdf(?)
 B2015 Strategic modelling and business dynamics, morecroft WILEY.pdf
+B2008 Microeconomics of banking, freixas MIT-PRESS.pdf
 B2016 Banking in Portugal, sergio PALGRAVE.pdf
 B2013 Trading systems and methods, kaufman WILEY.pdf
 B2023 Automated market makers, ottina APRESS.pdf
@@ -220,6 +225,10 @@ B2019 Programming Bitcoin, song REILLY.pdf
 B2011 Investing demystified, lim MCGRAWHILL.pdf
 B2021 Why it's ok to want to be rich, brennan ROUTLEDGE.pdf(?)
 B2016 Between debt and the devil, turner PRINCETON.pdf
+B2015 Modern money theory, wray PALGRAVE.pdf(?)
+B2022 A mathematical approach to Marxian value theory, rieu PALGRAVE.pdf(?)
+B2018 Principles of econometrics, hill WILEY.pdf
+B2023 Institutions and economic development, cheang SPRINGER.pdf
 Interest and the Amount Function
 Capitalism is good. Let me explain.
 Is Economics a Science or Pseudoscience?
@@ -290,6 +299,7 @@ B2013 Refining sound, shepard OXFORD.pdf
 B2024 The Python audio cookbook, drymonitis ROUTLEDGE.pdf
 Music Production with FL Studio – Full Tutorial for Beginners
 8-bit Music Theory - YouTube
+CS 472 Topics Overview
 
 in pt
 Como Tocar Guitarra - Tudo o Que Tens de Aprender
@@ -382,6 +392,7 @@ B2018 Undergraduate Analysis, mccluskey OXFORD.pdf
 B2020 Elementary Calculus, corral NONE.pdf (? - nonstandard analysis)
 B2000 Elementary Calculus, keisler NONE.pdf (? - same)
 B2022 Calculus set free, dawson OXFORD.pdf(? - same but attempt at being educational)
+B2022 New infinitary mathematics, vopenka OTHER.pdf
 B2016 Biocalculus, stewart CENGAGE.pdf
 B1986 Calculus of One Variable, grossman ELSEVIER.pdf
 B2020 Basic analysis I, peterson CRC.pdf
@@ -432,12 +443,17 @@ B2008 Applied Linear Algebra, sadun AMS.pdf
 B2010 A modern introduction to linear algebra, ricardo CRC.pdf
 B2014 Linear algebra, bronson ELSEVIER.pdf
 B2020 Matrix methods, bronson ELSEVIER.pdf
+B2021 No bullshit guide to linear algebra, savov NONE.pdf
 B2021 A first course in group theory, davvaz SPRINGER.pdf
+Linear Algebra for Computer Scientists.  1. Introducing Vectors
 Linear Algebra 1.1.1 Systems of Linear Equations
 Linear Algebra Full Course | Linear Algebra for beginners
 Tuples and Vectors
+Why can't you multiply vectors?
 MathTheBeautiful - Intro to tensor calculus
 
+in pt
+B2008 Algebra linear, cabral OTHER.pdf
 diff equations
 B2012 Differential Equations, blanchard CENGAGE.pdf 
 
@@ -475,6 +491,7 @@ B2016 Introduction to mathematical biology, friedman SPRINGER.pdf
 B2023 Mathematical modeling for epidemiology and ecology, ledder SPRINGER.pdf
 
 other
+B2019 An introduction to computational science, holder SPRINGER.pdf
 B2016 Scientific models, gerlee SPRINGER.pdf
 B2022 Mathematical modeling, palacios SPRINGER.pdf
 B2023 Numerical methods with Python, miles GRUYTER.pdf
@@ -549,6 +566,8 @@ B2023 Simple type theory, farmer SPRINGER.pdf
 B2020 An introduction to formal logic, smith CAMBRIDGE.pdf
 B2022 Beginning mathematical logic, smith CAMBRIDGE.pdf
 B2013 An introduction to Gödel's theorems, smith CAMBRIDGE.pdf
+B2018 An introduction to the language of mathematics, mynard SPRINGER.pdf
+B2019 The beauty of mathematics in computer science, wu CRC.pdf
 Intro to Discrete Math - Welcome to the Course!
 
 probability/stats
@@ -617,6 +636,7 @@ B2015 The foundations of mathematics, stewart OXFORD.pdf
 B2009 The foundations of Mathematics, sibley WILEY.pdf
 B2021 Elements of Mathematics, toth SPRINGER.pdf
 B2023 Mathematical Thinking, karloff SPRINGER.pdf
+B2024 Fundamentals of abstract algebra, debonis CRC.pdf
 B2019 Abstract Algebra with Applications, terras CAMBRIDGE.pdf
 B2014 Abstract Algebra, finston SPRINGER.pdf
 B1999 Godel, Escher, Bach, hofstadter OTHER.pdf
@@ -636,6 +656,7 @@ The basic idea - Equation Lego
 The Cantor-Schroeder-Bernstein Theorem
 beyond real numbers: solving x² + 1 = 0 in different number systems
 How The Most Useless Branch of Math Could Save Your Life
+When CAN'T Math Be Generalized? | The Limits of Analytic Continuation
 Jeff Suzuki - History of mathematics
 
 informatics
@@ -693,6 +714,7 @@ COMO INSTALAR SSD NO PC DA FORMA CERTA E FÁCIL(não foi fácil)
 C, C++, Rust
 unavoidable for low level stuff (when you explicitly need pointers and references). Rust is the least painful of these.
 B2020 C++ programming, forouzan MCGRAWHILL.pdf
+B2024 Programming with Rust, marshall PEARSON.pdf
 
 other
 B2021 C Programming, gookin DUMMIES.pdf
@@ -818,6 +840,8 @@ B2016 Essential SQLAlchemy, myers REILLY.pdf
 B2018 Flask web development, grinberg REILLY.pdf
 B2023 Full-stack Flask and React, adedeji PACKT.pdf
 B2023 Web development with Django, shaw PACKT.pdf
+Python Tutorial for Beginners 1: Install and Setup for Mac and Windows
+Programming Terms: Closures - How to Use Them and Why They Are Useful
 The complete guide to Python
 How to Create and Use Virtual Environments in Python With Poetry
 Python Website Full Tutorial - Flask, Authentication, Databases & More
@@ -860,6 +884,7 @@ Introduction to Operating System | Full Course for Beginners Mike Murphy 🌚 Le
 
 games + graphics
 Unity is kind of a mess, Godot is better. But when starting out you might want to take a stroll into how the engines work. For that maybe start with a simpler library like pygame before trying to code an engine yourself, a most useless endeavor that nevertheless might feel educational. For jobs, unity and c++ have always been strong (tho not really in my country). If you are curious about how to make a game like X, or how it was actually made, there’s always the AI to help you.
+B2023 Introduction to computer graphics, eck NONE.pdf
 B2022 Fundamentals of Computer Graphics, shirley CRC.pdf
 B2021 Computer Graphics from Scratch, gambetta NO-STARCH-PRESS.pdf
 B2022 Game Development with Blender and Godot, obuz PACKT.pdf
@@ -889,6 +914,7 @@ B2015 Multiplayer game development with HTML5, silveira PACKT.pdf
 B2013 Physics for game developers, bourg REILLY.pdf
 B2004 Physics modeling for game programmers, conger OTHER.pdf
 B2014 Physics for JavaScript games, animation, and simulations, ramtal APRESS.pdf
+CS 476 2020: Overview of Computer Graphics
 Programming a first person shooter from scratch like it's 1995
 Build a Game with JavaScript and HTML Canvas [RPG Kit series]
 COMP4300 - C++ Game Programming - Lecture 01 - Course Introduction
@@ -963,6 +989,7 @@ B2023 Machine learning for engineers, simeone CAMBRIDGE.pdf
 B2021 Ripple-down rules, compton CRC.pdf
 Machine Learning in C (Episode 1)
 No Black Box Machine Learning Course – Learn Without Libraries
+CS 477 Probability Part 1.1
 Machine Learning for Everybody – Full Course
 MIT Introduction to Deep Learning | 6.S191
 Liquid Neural Networks
@@ -980,6 +1007,7 @@ B2013 Computer security literacy, jacobson CRC.pdf
 B2023 Discovering cybersecurity, nielson APRESS.pdf
 B2022 Data communications and networking with TCP-IP protocol suite, forouzan MCGRAWHILL.pdf
 B2021 Network programming with Go, woodbeck NO-STARCH-PRESS.pdf
+B2020 Introduction to cryptography with coding theory, trappe PEARSON.pdf
 
 other
 B2020 Web Security for Developers, mcdonald NO-STARCH-PRESS.pdf
@@ -1023,6 +1051,7 @@ B2020 Digital Image Processing using MATLAB, gonzalez OTHER.pdf
 B2014 Advanced digital imaging laboratory using MATLAB, yaroslavsky IOP.pdf
 B2011 Advanced biomedical image analysis, haidekker WILEY.pdf
 B2024 An introduction to image classification, toennies SPRINGER.pdf
+B2019 The signal, lewis CRC.pdf
 Introduction to Signal Processing:  An Overview (Lecture 1)
 Control Systems. Lecture 1: Introduction to Linear Control Systems
 Image Processing with C++: Ep. 1 - Setup
@@ -1117,8 +1146,10 @@ B2020 Light and matter, crowell NONE.pdf
 B2018 Fundamentals of Physics, halliday WILEY.pdf
 B2023 The kaleidoscope of physics, rigamonti WORLD-SCIENTIFIC.pdf
 B2022 Fascinating problems for young physicists, vukmirovic CAMBRIDGE.pdf
+B2019 Physics for technology, nichols CRC.pdf
 Lecture 1: Introduction to Einstein, Oppenheimer, Feynman: Physics in the 20th Century
 Physics in 6 minutes
+Neil Turok Public Lecture: The Astonishing Simplicity of Everything
 Iceberg of Unsolved Mysteries in Physics
 Why Is There a Half In The Kinetic Energy Formula?
 
@@ -1148,6 +1179,7 @@ B2021 An introduction to Bond Graph Modeling with applications, machado CRC.pdf
 B2002 Modeling and analysis of dynamic systems, close WILEY.pdf
 B2007 Engineering System Dynamics, brown CRC.pdf
 B2021 System dynamics, palm MCGRAWHILL.pdf
+B2021 Discovering dynamical systems through experiment and inquiry, lofaro CRC.pdf
 B2023 Modeling of Dynamic Systems with engineering applications, silva CRC.pdf
 PHYS 101 | Position & Velocity 1 - Position
 Newtonian mechanics revision
@@ -1396,6 +1428,7 @@ B2023 Human missions to Mars, rapp SPRINGER.pdf
 B2022 Engineering in plain sight, hillhouse NO-STARCH-PRESS BAD-QUALITY.pdf
 B2019 Engineering problems for undergraduate students, ng SPRINGER.pdf
 B2023 Engineering fundamentals and problem solving, northup MCGRAWHILL.pdf
+B2022 Mechanical engineering design, ugural CRC.pdf
 What is Engineering?: Crash Course Engineering #1
 Fundamentals of Mechanical Engineering
 The Map of Engineering
@@ -1616,6 +1649,8 @@ B2021 High energy cosmic rays, stanev SPRINGER.pdf
 B2012 New eyes on the sun, wilkinson SPRINGER.pdf
 B2018 The great silence, cirkovic OXFORD.pdf
 B2008 Three steps to the universe, garfinkle OTHER.pdf
+B2024 Investigating life in the universe, walker CRC.pdf
+B2018 Cosmology and the early universe, bari CRC.pdf
 Lecture 1: Daily Motions of the Sky and The Celestial Sphere
 Introduction - 1a - Intro to Astronomy Sessions
 Space Science with Python - Part 1: Welcome Everyone!
@@ -1816,6 +1851,7 @@ B2019 Microbiological examination methods of food and water, silva CRC.pdf
 B2016 Antibiotics, walsh ASM.pdf
 B2017 Quantitative microbiology in food processing, santana WILEY.pdf
 B2010 I, microbiologist, sanders ASM.pdf
+B2011 Living in a microbial world, hofkin GARLAND.pdf
 2023 Escherichia coli survival in response to ciprofloxacin.pdf
 Chapter 1   Introduction to Microbiology
 Lab 1-2: Culture Media
@@ -1880,6 +1916,7 @@ B2020 Horse genetics, brooks CABI.pdf
 B2017 The AGT cytogenetics laboratory manual, arsham WILEY.pdf
 B2000 Functional genomics, hunt OXFORD.pdf
 B2011 The flexible phenotype, piersma OXFORD.pdf
+B2013 Phylogenomics, desalle GARLAND.pdf
 Reading Karyotypes + How to Read a Pedigree
 Balancer Chromosomes Explained
 Extracting DNA from strawberries and eating it
@@ -2010,6 +2047,7 @@ B2013 Molecular Pharmacology, dickenson WILEY.pdf
 B2018 Lessons on caffeine, cannabis & co, wolf SPRINGER.pdf
 B2019 A practical guide to Pharmacological Biotechnology, patra SPRINGER.pdf
 B2012 Drugs, nutt CAMBRIDGE.pdf
+B2019 Cosmetic formulation, benson CRC.pdf
 Psychedelics: a trip from mechanism to therapeutic potential?
 
 nutrition
@@ -2168,10 +2206,13 @@ Portugal Selvagem
 
 anatomy + physiology
 fleshy stuff
+B2017 Fundamentals of anatomy and physiology, peate WILEY.pdf
 B2011 Visualizing Anatomy and Physiology, tortora WILEY.pdf
 B2005 Environmental physiology of animals, willmer WILEY.pdf
 
 other
+B2015 High-yield gross anatomy, dudek OTHER.pdf
+B2015 BRS gross anatomy, chung OTHER.pdf
 B2007 Human physiology, mclaughlin BIOS.pdf
 B2013 Human anatomy and physiology, graaff SCHAUM.pdf
 B2022 Human microanatomy, stricker CRC.pdf
@@ -2429,6 +2470,12 @@ B2015 Social psychology, smith ROUTLEDGE.pdf
 B2017 Reflective and impulsive determinants of human behavior, deutsch ROUTLEDGE.pdf
 B2019 Group dynamics, forsyth CENGAGE.pdf
 B2022 Evil in mind, burris OXFORD.pdf
+B2022 Personality, individual differences and intelligence, maltby PEARSON.pdf
+B2021 Individual differences and personality, cooper ROUTLEDGE.pdf
+B2017 Human behavior and the social environment, micro level wormer OXFORD.pdf
+B2017 Human behavior and the social environment, macro level wormer OXFORD.pdf
+B2015 Explaining social behavior, elster CAMBRIDGE.pdf
+B2018 Introduction to sociology, giddens OTHER.pdf
 1. Introduction to Human Behavioral Biology
 Learning Online
 What Does IQ Actually Measure?
@@ -2679,6 +2726,9 @@ B2011 An introduction to Planetary Atmospheres, sanchez CRC.pdf
 B2022 Earth as an evolving planetary system, condie ELSEVIER.pdf
 B2012 Introduction to Earth and Planetary System Science, shikazono SPRINGER.pdf
 B2015 The twin sister planets Venus and Earth, malcuit SPRINGER.pdf
+B2021 Sample return missions, longobardo ELSEVIER.pdf
+B2015 Planetary vistas, murdin SPRINGER.pdf
+B2013 Introduction to planetary geomorphology, greeley CAMBRIDGE.pdf
 
 environment + ecology
 high-level generalities with high-impact consequences
