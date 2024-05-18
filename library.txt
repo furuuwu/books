@@ -43,7 +43,13 @@ B2021 Modern Physics with Modern Computational Methods for Scientists and Engine
 B2017 Our place in the universe, kwok SPRINGER.pdf
 B2021 Our place in the universe II, kwok SPRINGER.pdf
 B2022 Light-matter interaction, stenzel SPRINGER.pdf
+B2023 The Quantum nature of things, robinson CRC.pdf(?)
+B2017 Six ideas that shaped physics, moore MCGRAWHILL
 B2022 Modern physics, bellantoni WORLD-SCIENTIFIC
+B2023 Modern quantum theory, bertlmann OXFORD
+B2017 An introduction to modern astrophysics, carroll CAMBRIDGE
+B2010 A general relativity workbook, moore OTHER
+B2021 What is space-time made of, izabel OTHER (?)
 
 (eng)
 B2024 Understanding technological systems, krupczak SPRINGER.pdf
@@ -91,6 +97,9 @@ B2022 The field description of metamorphic rocks, jerram WILEY
 in portuguese (pt)
 as “opções” nesta biblioteca são muito mais limitadas mas mesmo assim há muitos livros excelentes
 
+(math)
+B2016 Aplicaçoes da matematica, leite CENGAGE
+
 (cs)
 B2010 Informatica, vol1 parte1 CENTRO-PAULA-SOUZA
 B2010 Informatica, vol1 parte2 CENTRO-PAULA-SOUZA
@@ -99,6 +108,10 @@ B2010 Informatica, vol3 CENTRO-PAULA-SOUZA
 B2010 Informatica, vol4 CENTRO-PAULA-SOUZA
 
 (phys)
+B2015 Princípios de fisica, vol1 serway CENGAGE
+B2015 Princípios de fisica, vol2 serway CENGAGE
+B2015 Princípios de fisica, vol3 serway CENGAGE
+B2013 Fisica para cientistas e engenheiros, vol4 serway CENGAGE
 B2006 Fisica moderna, caruso ELSEVIER
 B2009 Fisica moderna, exercicios resolvidos caruso ELSEVIER
 
@@ -115,14 +128,19 @@ B2011 Eletronica, vol3 CENTRO-PAULA-SOUZA
 B2011 Eletronica, vol4 CENTRO-PAULA-SOUZA
 B2011 Eletronica, vol5 CENTRO-PAULA-SOUZA
 B2011 Eletronica, vol6 CENTRO-PAULA-SOUZA
+B2016 Introduçao à engenharia mecanica, wickert CENGAGE
 
 (bio)
 B2014 Biologia de Campbell, reece OTHER
-B2017 Vida, sadava vol1 OTHER
-B2017 Vida, sadava vol2 OTHER
+B2017 Vida, vol1 sadava OTHER
+B2017 Vida, vol2 sadava OTHER
 B2017 Vida, vol3 sadava OTHER
+B2016 Biologia moderna, vol1 amabis OTHER
+B2016 Biologia moderna, vol2 amabis OTHER
+B2016 Biologia moderna, vol3 amabis OTHER
 B2017 Biologia molecular da célula, alberts GARLAND.pdf
 B2019 Genetica medica, schaefer MCGRAWHILL.pdf
+B2011 Introduçao à quimica organica, barbosa PEARSON
 B2018 Principios da bioquimica para universitarios, galante OTHER.pdf
 B2013 Principios de bioquimica Lehninger, nelson OTHER
 B2015 Química medicinal, barreiro OTHER.pdf
@@ -130,6 +148,7 @@ B2015 Fisiologia e desenvolvimento vegetal, taiz OTHER.pdf
 B2013 Fisiologia animal, nielsen OTHER.pdf
 B2014 Anatomia e fisiologia de Seeley, vanputte MCGRAWHILL.pdf
 B2013 Fisiologia humana, stanfield PEARSON
+B2015 Neurociências, bear OTHER
 B2017 Ciencia psicologica, gazzaniga OTHER
 B2012 Biofisica essencial, abramov OTHER.pdf
 
@@ -151,7 +170,7 @@ ChatGPT, Gemini
 Ecosia, YouTube
 Wikipedia, Scholarpedia, ResearchGate
 Personal Cloud Storage & File Sharing Platform - Google, Google Keep, Google Calendar
-Trello, Obsidian, Thunderbird
+Trello, Obsidian, Thunderbird, Edit PDFs for free with Firefox PDF Editor
 
 You can contact me for suggestions via discord (overseer_of_dreams) or whatsapp if you know me.
 
@@ -231,6 +250,7 @@ Episode 155 - Emil Cioran - Absurdity and Nothingness
 Futurist From 1922 Makes Weirdly Accurate Predictions For 2022
 Philosophize This! - YouTube
 History of Philosophy without any gaps
+The Problem of Desire | Psychology Today
 
 religion
 Obviously, there are no gods, it would be awfully convenient and reassuring tho.
@@ -424,6 +444,7 @@ B2016 Introduction to mathematical biology, friedman SPRINGER.pdf
 B2023 Mathematical modeling for epidemiology and ecology, ledder SPRINGER.pdf
 B2024 Mathematical methods using Python, kulp CRC
 B2024 Quantitative biosciences, weitz PRINCETON
+B2022 Mathematical methods for molecular science, straub OTHER
 
 other
 B2023 Engineering mathematics by example vol1, sobot SPRINGER.pdf
@@ -511,6 +532,11 @@ Dynamic equations on time scales
 The Biggest Gap in Science: Complexity
 https://github.com/eguidotti/calculus
 
+in pt
+B2016 Aplicaçoes da matematica, leite CENGAGE
+B2010 Matematica para fisicos com aplicações, vol1 neto OTHER
+B2011 Matematica para fisicos com aplicações, vol2 neto OTHER
+
 
 LaTeX
 it’s important because visual editors are lacking and you get to type equations that make you look smart even tho we all know the truth
@@ -578,6 +604,9 @@ Calculus WITHOUT limits!
 The Hyperreals
 Jeff Suzuki - Calculus 3
 
+in pt
+B2008 Calculo, neto OTHER
+
 linear algebra
 B2021 Introduction to Linear and Matrix Algebra, johnston SPRINGER.pdf
 B2021 Advanced Linear and Matrix Algebra, johnston SPRINGER.pdf
@@ -594,6 +623,7 @@ B2014 Linear algebra, bronson ELSEVIER.pdf
 B2020 Matrix methods, bronson ELSEVIER.pdf
 B2021 No bullshit guide to linear algebra, savov NONE.pdf
 B2021 A first course in group theory, davvaz SPRINGER.pdf
+B2022 An introduction to linear algebra, liu OTHER
 Linear Algebra for Computer Scientists.  1. Introducing Vectors
 Linear Algebra 1.1.1 Systems of Linear Equations
 Linear Algebra Full Course | Linear Algebra for beginners
@@ -624,6 +654,7 @@ B2017 A First Course in the Finite Element Method, logan CENGAGE.pdf
 B2018 Finite Element computations in mechanics with R, mustapha CRC.pdf
 B2023 Finite element and finite volume methods for heat transfer and fluid dynamics, reddy CAMBRIDGE.pdf
 B2024 High-order finite difference and finite element methods for solving some partial differential equations, vandadoo SPRINGER.pdf
+B2023 Basic theory of finite element method, wang OTHER
 Understanding the Finite Element Method
 On Neural Differential Equations
 Jeff Suzuki - Differential equations
@@ -707,6 +738,7 @@ B2023 Intermediate statistics with R, greenwood NONE
 B2023 Mostly harmless statistics, webb NONE
 B2023 Natural resources biometrics, kiernan NONE
 B2023 Statistics using technology, kozak NONE
+B2021 Applied multivariate statistical analysis and related topics with R, wu OTHER
 Statistics - 1.1 Intro to Statistics
 Using Excel to Display Data
 Biostatistics 1
@@ -735,6 +767,8 @@ B2014 Taming the unknown, katz PRINCETON.pdf
 B1972 Mathematical thought from ancient to modern times, kline OXFORD.pdf
 B2024 A brief history of mathematics for curious minds, krzysztof WORLD-SCIENTIFIC.pdf
 B2024 Playing with infinity, zantema CRC
+B2022 Perfect numbers and fibonacci sequences, cai WORLD-SCIENTIFIC
+B2023 A brief history of mathematics, cai SPRINGER
 Introduction to Abstract Algebra
 Climbing past the complex numbers.
 Discrete Math - 4.1.1 Divisibility
@@ -980,6 +1014,9 @@ B2017 Models to Code, starr APRESS.pdf
 B2023 What every engineer should know about Software Engineering, laplante CRC.pdf
 B2023 Computers as components, wolf ELSEVIER.pdf
 B2015 Real-Time Embedded Systems, fan NEWNES.pdf
+B2016 MongoDB in action, banker MANNING.pdf
+MongoDB Schema Design Best Practices
+MongoDB Crash Course 2023
 SQL Databases and the Firebase Database - The Firebase Database For SQL Developers #1
 
 devops + OSs
@@ -1053,6 +1090,7 @@ Godot 4 Crash Course for Beginners - GameDev 2D Top Down Tutorial
 Godot Components - how to structure a game into manageable parts (Beginner/Intermediate)
 Godot 4 - Tiled Dungeon Environment From Scratch
 Code a 3D RPG Action Game – Godot GameDev Tutorial
+Mastering Godot: Unveil Advanced Movements & Parallax Secrets in a Contra Clone
 Basics Of Multiplayer In Godot 4!
 Make A Game Like Pokemon in Unity | #1 - Introduction and Tile Based Movement
 How to choose your multiplayer backend
@@ -1194,6 +1232,7 @@ overview
 B2010 Exploring integrated science, baaquie CRC.pdf
 B2020 Morphogenesis deconstructed, pismen SPRINGER.pdf
 B2012 Understanding Physics and Physical Chemistry using formal graphs, vieil CRC.pdf(? - why is no one using it? need someone to explain it better)
+B2023 Surface-volume, rubin SPRINGER
 
 other
 B2016 The Sciences, trefil WILEY.pdf
@@ -1244,6 +1283,8 @@ B2021 Basic concepts in Physics, chaichian SPRINGER.pdf
 B2017 The physical world, manton OXFORD.pdf
 B2017 Problems in classical and quantum mechanics, kelley SPRINGER.pdf
 B2022 Modern physics, bellantoni WORLD-SCIENTIFIC
+B2007 Physics, decade by decade bortz INFOBASE
+B2017 Six ideas that shaped physics, moore MCGRAWHILL
 
 other
 B2023 The mathematical representation of physical reality, hacyan SPRINGER.pdf
@@ -1281,6 +1322,9 @@ B2018 Fundamentals of Physics, halliday WILEY.pdf
 B2023 The kaleidoscope of physics, rigamonti WORLD-SCIENTIFIC.pdf
 B2022 Fascinating problems for young physicists, vukmirovic CAMBRIDGE.pdf
 B2019 Physics for technology, nichols CRC.pdf
+B2000 Advanced physics, adams OXFORD
+B2002 Calculations for A-level physics, lowe OTHER
+B2012 Physics in daily life, hermans OTHER
 Lecture 1: Introduction to Einstein, Oppenheimer, Feynman: Physics in the 20th Century
 Physics in 6 minutes
 Neil Turok Public Lecture: The Astonishing Simplicity of Everything
@@ -1288,13 +1332,22 @@ Iceberg of Unsolved Mysteries in Physics
 Why Is There a Half In The Kinetic Energy Formula?
 
 in pt
+B2015 Princípios de fisica, vol1 serway CENGAGE
+B2015 Princípios de fisica, vol2 serway CENGAGE
+B2015 Princípios de fisica, vol3 serway CENGAGE
+B2013 Fisica para cientistas e engenheiros, vol4 serway CENGAGE
+B1994 Fisica experimental, abreu OTHER
 B2006 Fisica moderna, caruso ELSEVIER
 B2009 Fisica moderna, exercicios resolvidos caruso ELSEVIER
+B2013 Convite à fisica matematica, lemos OTHER
 Física com Douglas - YouTube
 mechanics + dynamics
 B2005 Classical mechanics, taylor OTHER.pdf
 B2021 Modern Classical Mechanics, helliwell CAMBRIDGE.pdf
 B2023 Classical mechanics, kempen CRC.pdf
+B2022 Engineering mechanics, jiang OTHER
+B2019 Engineering dynamics, reilly SPRINGER
+B2020 Intermediate dynamics for engineers, reilly CAMBRIDGE
 
 other
 B2020 Introduction to Mechanics of Particles and Systems, papachristou SPRINGER.pdf
@@ -1321,6 +1374,10 @@ Newtonian mechanics revision
 ROCKET SCIENCE explained in 15 minutes! And How do satellites work?
 DERIVING the Orbit of Our Home Planet from Newton's Law of Gravity: Physics Mini Lesson
 
+in pt
+B2004 Mecanica newtoniana, lagrangiana e hamiltoniana neto OTHER
+B2007 Mecanica analitica, lemos OTHER
+
 metrology
 B2010 Measurements and their Uncertainties, hughes OXFORD.pdf
 B2021 Physics experiments with Arduino and Smartphones, organtini SPRINGER.pdf
@@ -1341,6 +1398,7 @@ thermodynamics
 B2013 Practical Chemical Thermodynamics for geoscientists, fegley ELSEVIER.pdf
 B2021 Thermodynamics, dincer WILEY.pdf
 B2011 Molecular Driving Forces, bromberg GARLAND-SCIENCE.pdf
+B2022 Fundamentals of thermal-fluid sciences, cengel MCGRAWHILL
 
 other
 B2021 Energy and entropy, leff CRC.pdf
@@ -1358,6 +1416,7 @@ B2022 Thermal systems design, martin WILEY.pdf
 B2003 Introduction to thermal systems engineering, moran WILEY.pdf
 B2023 Atmospheric Thermodynamics, bohren OXFORD.pdf
 B1999 Thermodynamics of atmospheres and oceans, curry ELSEVIER
+B2008 Introduction to molecular thermodynamics, hanson OTHER
 Lecture 1: Basic concepts
 
 electronics
@@ -1465,6 +1524,8 @@ B2016 Sensors and actuators, silva CRC
 B2014 Getting started with sensors, karvinen MAKE
 B2015 Electrical wiring residential, mullin CENGAGE
 B2018 Electrical wiring commercial, mullin CENGAGE
+B2008 Essentials of radio wave propagation, haslett CAMBRIDGE
+B2010 Essentials of short-range wireless, hunn CAMBRIDGE
 PHYS 102 | Charge 1 - Microscopic Charges
 SRS 1.1 Motivation of the course
 LESSON 1: Simple Introduction to the Arduino
@@ -1633,6 +1694,7 @@ B2011 Mecanica, vol2 CENTRO-PAULA-SOUZA
 B2011 Mecanica, vol3 CENTRO-PAULA-SOUZA
 B2011 Mecanica, vol4 CENTRO-PAULA-SOUZA
 B2011 Mecanica, vol5 CENTRO-PAULA-SOUZA
+B2016 Introduçao à engenharia mecanica, wickert CENGAGE
 
 materials
 B2021 Concepts of Materials Science, sutton OXFORD.pdf
@@ -1676,7 +1738,9 @@ B2022 Understanding Relativity, schmitz SPRINGER.pdf
 B2018 The elements of Relativity, wittman OXFORD.pdf
 B2018 Relativity without spacetime, cosgrove PALGRAVE.pdf(?)
 B2022 New relativity in the gravitational universe, unnikrishnan SPRINGER
-
+B2012 Theory of relativity, manning INFOBASE
+B2010 A general relativity workbook, moore OTHER
+B2021 What is space-time made of, izabel OTHER (?)
 eigenchris - YouTube
 
 other
@@ -1699,6 +1763,7 @@ B2021 General Relativity and Cosmology, adler SPRINGER.pdf
 B2002 Cosmology, coles WILEY.pdf
 B2011 Scale relativity and fractal space-time, nottale WORLD-SCIENTIFIC.pdf(?)
 B2014 New Foundations for Physical Geometry, maudlin OXFORD.pdf(?)
+B2021 Understanding gravity, robson WORLD-SCIENTIFIC (?)
 How Fast Is It - 01 - Preface (1080p)
 General Relativity: Lecture 1: course overview, 9-8-22
 General Relativity, Lecture 1: mass, universality of free fall, and prerelativity gravitation
@@ -1719,11 +1784,14 @@ there’s a reason there’s so many question marks
 B2022 Particles, fields and forces, schmitz SPRINGER.pdf
 B2009 Quantum mechanics, zettili WILEY.pdf
 B2010 Quantum mechanics, hecht SCHAUM.pdf
-B2013 Quantum theory for mathematicians, hall SPRINGER.pdf
 B2022 Light-matter interaction, stenzel SPRINGER.pdf
 B2023 Fundamentals of particle physics, paganini CAMBRIDGE.pdf
+B2023 The Quantum nature of things, robinson CRC.pdf(?)
+B2023 Modern quantum theory, bertlmann OXFORD
+B2023 Fusion's promise, moynihan SPRINGER
 
 other
+B2013 Quantum theory for mathematicians, hall SPRINGER.pdf
 B2020 Mathematical concepts of quantum mechanics, gustafson SPRINGER.pdf
 B2015 Structure of Matter, rigamonti SPRINGER.pdf
 B2012 Quantum mechanics, mcintyre PEARSON.pdf
@@ -1738,7 +1806,6 @@ B2012 Fundamentals of Quantum Physics, pereyra SPRINGER.pdf
 B2018  Introductory Quantum Mechanics, berman SPRINGER.pdf
 B2017 What's the matter with waves, parkinson IOP.pdf
 B2018 Computational Quantum Mechanics, izaac SPRINGER.pdf
-B2023 The Quantum nature of things, robinson CRC.pdf(?)
 B2018 Introduction to Quantum Mechanics, griffiths CAMBRIDGE.pdf
 B1971 Modern Physics and Quantum Mechanics, anderson OTHER.pdf
 B2017 Quarks, leptons and the big bang, allday CRC.pdf
@@ -1773,7 +1840,16 @@ B2023 Superatoms, gaston CRC.pdf
 B2005 Information and its role in nature, roederer SPRINGER.pdf
 B2017 Light and vacuum, meis  WORLD-SCIENTIFIC.pdf(?)
 B2022 What is a quantum field theory, talagrand CAMBRIDGE.pdf
+B2023 Modern quantum theory, bertlmann OXFORD
 B2023 Quantum mechanics, larkoski CAMBRIDGE .pdf
+B2011 Quantum theory, manning INFOBASE
+B2012 The major accident at Fukushima, OTHER
+B2014 Elementary particles and emergent phase space, zenczykowski WORLD-SCIENTIFIC (?)
+B2017 Modern elementary particle physics, kane CAMBRIDGE
+B2009 Nuclear energy, tabak INFOBASE
+B2011 The history of nuclear power, mahaffey INFOBASE
+B2012 Nuclear fission reactors, mahaffey INFOBASE
+B2014 Atomic accidents, mahaffey OTHER
 The Iceberg of Quantum Physics Explained
 Chapter 1: Stern Gerlach Experiments
 Quantum Physics Full Course | Quantum Mechanics Course
@@ -1788,6 +1864,7 @@ This New Element is Lighter than Hydrogen. What?!?!
 Spinors for Beginners 1: Introduction (Overview +Table of Contents for video series)
 
 in pt
+B2010 Introdução à fisica de particulas, endler OTHER
 1 Introdução
 
 universe
@@ -1801,6 +1878,11 @@ B2022 Life in the universe, bennett PRINCETON.pdf
 B2017 Our place in the universe, kwok SPRINGER.pdf
 B2021 Our place in the universe II, kwok SPRINGER.pdf
 B2022 Our celestial clockwork, kerner WORLD-SCIENTIFIC
+B2008 Planets, stars, and galaxies, ritter INFOBASE
+B2007 Space and astronomy, decade by decade dyson INFOBASE
+B2012 Exploring the Solar System, bond WILEY
+B2017 An introduction to modern astrophysics, carroll CAMBRIDGE
+B2020 Orbital mechanics for engineering students, curtis ELSEVIER
 
 other
 B2012 Earth at night, NASA.pdf
@@ -1861,6 +1943,32 @@ B2004 A concise history of solar and stellar physics, tassoul PRINCETON
 B2021 Imaging our solar system, henin SPRINGER
 B2018 Mysteries of Mars, blasio SPRINGER
 B2018 From habitability to life on Mars, grin ELSEVIER
+B2017 The Sun, golub OTHER
+B2014 Nearest star, pasachoff CAMBRIDGE
+B2018 The Moon, leatherbarrow OTHER
+B2018 Mercury, sheehan OTHER
+B2019 Saturn, sheehan OTHER
+B2020 Mars, meara OTHER
+B2022 Uranus and Neptune, kennett OTHER
+B2022 Venus, sheehan OTHER
+B2021 Asteroids, cunningham OTHER
+B2013 The asteroid impact connection of planetary evolution, glikson SPRINGER
+B2020 Planetary astrobiology, meadows OTHER
+B2002 Disturbing the Solar System, rubin PRINCETON
+B2004 Physics and chemistry of the Solar System, lewis ELSEVIER
+B2005 Astronomical spectroscopy, tennyson OTHER
+B2009 Meteors and how to observe them, lunsford SPRINGER
+B2010 Asteroids and dwarf planets and how to observe them, dymock SPRINGER
+B2010 Australia's meteorite craters, bevan OTHER
+B2010 Guide to eclipses, transits, and occultations, levy CAMBRIDGE
+B2010 Meteorite impact!, reimold SPRINGER
+B2015 Meteorite, golia OTHER
+B2024 A meteorite killed my cow, greenwood CRC
+B2013 Introduction to astronomical spectroscopy, appenzeller CAMBRIDGE
+B2017 Asteroids, burbine CAMBRIDGE
+B2018 Successfully starting in astronomical spectroscopy, cochard OTHER
+B2020 Rosetta, bond SPRINGER
+B2022 Solar surveyors, bond SPRINGER
 Lecture 1: Daily Motions of the Sky and The Celestial Sphere
 Introduction - 1a - Intro to Astronomy Sessions
 How Far Away Is It - 01 - Preface
@@ -1880,10 +1988,13 @@ The central science!
 B2018 A-level Chemistry for AQA, CGP-BOOKS.pdf
 B2016 General, Organic, and Biological Chemistry, stoker CENGAGE.pdf
 B2018 The atom, challoner OTHER.pdf
+B2007 Chemistry, decade by decade greenberg INFOBASE
 
 other
 B2020 Introduction to general, organic, and biochemistry, bettelheim CENGAGE.pdf
 B2012 Introduction to General, Organic, and Biochemistry, hein WILEY.pdf
+B2000 A-level chemistry, ramsden OXFORD
+B1993 Calculations for A-level chemistry, ramsden OTHER
 Crash Course Chemistry Preview!
 
 general + inorganic
@@ -1891,6 +2002,10 @@ B2015 Chemistry for changing times, hill PEARSON.pdf
 B2014 Chemical structure and reactivity, keeler OXFORD.pdf
 B2012 Inorganic chemistry, housecroft PEARSON.pdf
 B2023 Chemical calculations, yates CRC.pdf
+B2007 The nature of matter, larson INFOBASE
+B2009 Chemical bonds, manning INFOBASE
+B2011 Quantifying matter, angelo INFOBASE
+B2011 Solid matter, angelo INFOBASE
 
 other
 B2013 Chemistry for biologists, fisher BIOS.pdf
@@ -1909,6 +2024,8 @@ B2018 A step by step approach to the Modeling of Chemical Engineering Processes,
 B2016 Fire, deagan MAKE.pdf
 B2022 Fundamental chemistry with MATLAB, canuto ELSEVIER.pdf
 B2017 Understanding basic chemistry through problem solving, tan WORLD-SCIENTIFIC.pdf
+B2011 Energy of matter, angelo INFOBASE
+B2008 Atoms, molecules, and compounds, manning INFOBASE
 Atomic Structure and Symbolism, Part 1 | OpenStax Chemistry 2e 2.3
 1. The Importance of Chemical Principles
 Introduction to Chemistry Laboratory Techniques
@@ -1942,6 +2059,7 @@ The reason we are here aka the most important of all the sciences!
 B2016 A-level Biology for AQA, CGP-BOOKS.pdf
 B2016 Biology, mader MCGRAWHILL.pdf
 B2021 Campbell biology, urry PEARSON.pdf
+B2007 Biology, decade by decade haugen INFOBASE
 B2024 Tales of discovery, garcia SPRINGER
 
 other
@@ -1974,9 +2092,12 @@ AP®︎/College Biology
 
 in pt
 B2014 Biologia de Campbell, reece OTHER
-B2017 Vida, sadava vol1 OTHER
-B2017 Vida, sadava vol2 OTHER
+B2017 Vida, vol1 sadava OTHER
+B2017 Vida, vol2 sadava OTHER
 B2017 Vida, vol3 sadava OTHER
+B2016 Biologia moderna, vol1 amabis OTHER
+B2016 Biologia moderna, vol2 amabis OTHER
+B2016 Biologia moderna, vol3 amabis OTHER
 
 cellular + molecular
 the cell is doing stuff but who knows, explained by artistic depictions
@@ -2031,6 +2152,7 @@ B2012 Biologia celular e molecular, junqueira OTHER.pdf
 B2017 Biologia molecular da célula, alberts GARLAND.pdf
 B2013 Analises de RNA, proteinas e metabolitos, verlengia OTHER.pdf
 B2013 Histologia dos tecidos, gitirana OTHER.pdf
+B2007 A celula, carvalho OTHER
 
 microbiology + parasitology
 surrounded by these all the time
@@ -2095,6 +2217,7 @@ B2022 The biological role of a virus, hurst SPRINGER
 B2008 Viruses and human disease, strauss ELSEVIER
 B2017 Food microbiology, matthews ASM
 B2016 Food microbiology, adams RSC
+B2018 Interactions materials - microorganisms, lors OTHER
 Chapter 1   Introduction to Microbiology
 Lab 1-2: Culture Media
 Where Did Viruses Come From?
@@ -2111,6 +2234,7 @@ B2019 Genetic analysis, sanders PEARSON.pdf
 B2010 Genetics, elrod SCHAUM.pdf
 B2018 Drosophila workers unite!, markstein NONE.pdf
 B2021 Gene cloning and DNA analysis, brown WILEY
+B2023 Linkage analysis and gene mapping, wang OTHER
 Lecture 1 - Introduction to Genetics
 
 other
@@ -2295,6 +2419,7 @@ Homochirality: Why Nature Never Makes Mirror Molecules
 in pt
 B2018 Principios da bioquimica para universitarios, galante OTHER.pdf
 B2013 Principios de bioquimica Lehninger, nelson OTHER
+B2011 Introduçao à quimica organica, barbosa PEARSON
 
 drugs
 B2012 Introduction to Pharmacology, asperheim ELSEVIER.pdf
@@ -2318,6 +2443,7 @@ B2019 Cosmetic formulation, benson CRC.pdf
 B2015 Peptide chemistry and drug design, dunn WILEY
 B2014 Peptidomimetics in organic and medicinal chemistry, trabocchi WILEY
 B2014 Organic chemistry concepts and applications for medicinal chemistry, rice ELSEVIER
+B2012 Retrometabolic drug design and targeting, bodor WILEY
 Psychedelics: a trip from mechanism to therapeutic potential?
 organic primer for medicinal chemistry - playlist
 medicinal chemistry overview - playlist
@@ -2325,6 +2451,7 @@ medicinal chemistry overview - playlist
 in pt
 B2013 Medicamentos, chaves OTHER.pdf
 B2015 Química medicinal, barreiro OTHER.pdf
+B2015 Farmacologia ilustrada, whalen OTHER
 B2009 A pratica farmaceutica na manipulacao de medicamentos, thompson OTHER.pdf
 B2010 Pratica farmaceutica no ambiente hospitalar, ferracini OTHER.pdf
 
@@ -2357,12 +2484,19 @@ B2024 Chemistry and biochemistry of food, castineira GRUYTER
 B2013 Biochemistry of foods, eskin ELSEVIER
 B2014 Food processing, clark WILEY
 B2022 Food analysis, muntean GRUYTER
+B2011 Basic nutrition, smolin INFOBASE
+B2010 Nutrition and disease prevention, allman INFOBASE
+B2010 Nutrition and weight management, smolin INFOBASE
+B2010 Nutrition for sports and exercise, smolin INFOBASE
+B2011 Nutrition and eating disorders, smolin INFOBASE
+B2011 Nutrition and food safety, smith INFOBASE
 An Overview of Science of Nutrition
 Making the world's most expensive carbonated water!
 5 Ways To Identify Ultra-Processed Foods with Chris van Tulleken
 Episode #071 ... Is Killing Animals For Food Morally Justifiable?
 The Science of Why People Hate Vegans
 Soylent: How I Stopped Eating for 30 Days(?)
+Food and Agriculture Organization of the United Nations
 
 in pt
 B2008 Bioquimica de alimentos, koblitz OTHER.pdf
@@ -2414,6 +2548,17 @@ B2017 Soil fertility and fertilizers, havlin PEARSON
 B2020 Ecology and management of forest soils, binkley WILEY
 B2015 Soil microbiology, ecology and biochemistry, paul ELSEVIER
 B2020 Plant litter, berg SPRINGER
+B2006 Forestry, raven INFOBASE
+B2006 Plant cells and tissues, stephens INFOBASE
+B2006 Plant ecology, gibson INFOBASE
+B2007 Plant diversity, gibson INFOBASE
+B2006 Photosynthesis and respiration, hopkins INFOBASE
+B2006 Plant development, hopkins INFOBASE
+B2006 Plant genetics, tornqvist INFOBASE
+B2006 Plant nutrition, wiedenhoeft INFOBASE
+B2007 Ethnobotany, young INFOBASE
+B2007 Horticulture, lang INFOBASE
+B2007 Plant biotechnology, hopkins INFOBASE
 The Surprising Map of Plants
 Introduction to Botany
 PLANT CLADOGRAM
@@ -2492,6 +2637,7 @@ Are We All Actually Archaea?
 The Biophysics of a Brainless Animal
 There's no such thing as a jellyfish
 True Facts: Reef Coral is a Crazy Animal!
+How These Animals Lost Their Heads (And Bodies, and Butts)
 
 in pt
 B2013 Fisiologia animal, nielsen OTHER.pdf
@@ -2726,6 +2872,9 @@ Scientists Gave Human Brain Cells to a Rat. Why?
 Youtube - The Neurobiology of Beauty
 Neuroscientifically Challenged - YouTube
 
+in pt
+B2015 Neurociências, bear OTHER
+
 psychology
 people convinced they are thinking or smt
 B2010 Visualizing Psychology, carpenter WILEY.pdf
@@ -2808,6 +2957,7 @@ in pt
 B2008 Fisiologia aplicada a psicologia, cortez OTHER.pdf
 B2013 Introduçao a psicologia, feldman MCGRAWHILL.pdf
 B2017 Ciencia psicologica, gazzaniga OTHER
+B2010 Psicologia social, myers MCGRAWHILL
 
 biophysics
 B2013 Physical Biology of the Cell, phillips GARLAND.pdf
@@ -2940,6 +3090,15 @@ B2018 The geology companion, prost CRC.pdf
 B1992 Planet Earth, emiliani CAMBRIDGE.pdf
 B2019 Geology, parriaux CRC
 B2013 Earth materials, klein CAMBRIDGE
+B2009 Rocks and minerals, cull INFOBASE
+B2009 Layers of the Earth, west INFOBASE
+B2009 Earthquakes and volcanoes, prager INFOBASE
+B2009 Mountains and valleys, arden INFOBASE
+B2009 Rivers, lakes, and oceans, schueller INFOBASE
+B2009 Fossils, raham INFOBASE
+B2007 Processes that shape the Earth, thompson INFOBASE
+B2008 Earth science, decade by decade reed INFOBASE
+https://paleolimbot.github.io/physical-geology/
 Introduction to Geology
 
 other
@@ -2952,16 +3111,17 @@ B2021 The story of Earth, hauptvogel NONE.pdf
 B2020 A practical guide to introductory Geology, mcgoldrick NONE.pdf
 B2019 Exploring earth science, reynolds MC-GRAWHILL.pdf
 B2023 Introduction to Earth Science, neser NONE.pdf
-B2018 Essentials of Geology, lutgens PEARSON.pdf
-B2013 Essentials of Geology, marshak NORTON.pdf
+B2018 Essentials of geology, lutgens PEARSON.pdf
+B2013 Essentials of geology, marshak NORTON.pdf
 B2003 Earth dynamic systems, christiansen PEARSON.pdf
 B2021 Song of the Earth, blankenheim OXFORD.pdf
-B2015 The changing earth, monroe CENGAGE.pdf
+B2015 The changing Earth, monroe CENGAGE.pdf
 B2019 Earth science for civil and environmental engineers, jackson CAMBRIDGE.pdf
 B2009 The Cambridge handbook of earth science data, henderson CAMBRIDGE.pdf
 B2020 Introduction to mineralogy and petrology, haldar ELSEVIER.pdf
 B2006 Geology for engineers and environmental scientists, kehew PEARSON.pdf
 B2018 Granite skyscrapers, stevenson SPRINGER
+B2024 An introduction to geology, johnson NONE
 Lecture 1A: Introduction to the Course
 01) Intro to Earth Explorations
 Planet Earth-Lab 1-Mineral Identification
@@ -2972,7 +3132,6 @@ USGS - YouTube
 Earth and Space Sciences X - Intro to geology
 https://www.youtube.com/@colinkolbus/videos
 Geology.com
-Google Earth
 Teach the Earth
 Geology is the Way
 
@@ -3031,7 +3190,16 @@ B2019 Geocomputation with R, lovelace CRC.pdf
 B2009 Fundamentals of Satellite Remote Sensing, chuvieco CRC.pdf
 B2022 Surveying with Geomatics and R, alves CRC.pdf
 B2023 Remote sensing and digital image processing with R, lab manual alves CRC.pdf
+B2013 Essentials of positioning and location technology, bartlett CAMBRIDGE
 Introduction to GIS
+Google Earth
+Earth Engine Data Catalog | Google for Developers
+Geo-Wiki
+
+in pt
+2006 Sobre geoestatística e mapas
+geoPortal do LNEG
+Sistema de Informação de Ocorrências e Recursos Minerais Portugueses - SIORMINP
 
 geophysics
 more problematic than it would appear
@@ -3071,12 +3239,18 @@ B2022 The formation of mountains, neukirchen SPRINGER
 B2019 Introduction to numerical geodynamic modelling, gerya CAMBRIDGE
 B2019 Seismic wave theory, krebes CAMBRIDGE
 B2017 Computational seismology, igel OXFORD
+B2019 The art and science of seismic interpretation, liner SPRINGER
+B2009 Tectonically active landscapes, bull WILEY
+B2019 Seismic imaging, mari OTHER
+B2018 Well seismic surveying and acoustic logging, mari OTHER
 We May be Able to Predict Earthquakes; A Major Discovery(?)
 Tectonic time-lapse: One billion years of Earth’s history in 40 seconds
 A new model of plate tectonic evolution from 1 Billion years ago to the present
 
 astrogeology
 B2013 Planetary geology, fortes DUNEDIN.pdf
+B2006 The Sun, Mercury, and Venus, tanton INFOBASE
+B2010 The Earth and the Moon, tanton INFOBASE
 
 other
 B2007 Origins, eales SPRINGER.pdf
@@ -3096,6 +3270,9 @@ B2014 Harvesting space for a greener Earth, matloff SPRINGER (?)
 B2019 Space mining and manufacturing, sivolella SPRINGER
 B2021 The cosmos economy, gregg SPRINGER
 B2019 Planetary geoscience, mcsween CAMBRIDGE
+B2015 Asteroid mining 101, lewis OTHER POOR-QUALITY
+B1984 Planets and their atmospheres, lewis ELSEVIER
+B2019 The atlas of Mars, christensen CAMBRIDGE
 
 environment + ecology
 high-level generalities with high-impact consequences
@@ -3169,6 +3346,7 @@ B2019 Soils and geotechnology in construction, lutenegger CRC
 B2018 Examining ecology, rees ELSEVIER
 B2018 Mineral exploration, roonwal SPRINGER
 B2024 The science of lithium, spellman CRC
+B2024 The lithium legacy, kunasz OTHER
 B2023 The science of rare earth elements, spellman CRC
 B2010 Geological methods in mineral exploration and mining, marjoribanks SPRINGER
 B2014 Earth resources and the environment, craig PEARSON
@@ -3176,15 +3354,21 @@ B2016 Introducing natural resources, park DUNEDIN
 B2020 Essentials of environmental engineering, spellman OTHER
 B2021 The science of environmental pollution, spellman CRC
 B2022 The science of waste, spellman CRC
+B2020 Mapping the risk of flood, mass movement and local subsidence, chaparro SPRINGER
 B2006 Ecological census techniques, sutherland CAMBRIDGE
 Environmental Science 1 (Introduction)
 Dangers of artificial islands
+GBIF
+InVEST | The Natural Capital Project
 
 in pt
 B2010 Guia de campo Dia B.pdf
 B2014 Ecologia, cain OTHER
+B2008 Fundamentos em ecologia, townsend OTHER
 B2014 Principios de engenharia ambiental, davis MCGRAWHILL
 B2013 Engenharia ambiental, calijuri ELSEVIER
+B2009 Biogeografia, cox OTHER
+B2009 Quimica ambiental, spiro PEARSON
 Hora de Agir Episódio 12 - de 27 fev 2024 - RTP Play
 Biosfera Episódio 35 - de 18 nov 2023 - RTP Play
 
@@ -3193,6 +3377,7 @@ B2012 Terrestrial ecosystem ecology, andersson CAMBRIDGE.pdf
 B2010 Marine ecology, henderson WILEY.pdf
 B2016 Oceanography, garrison CENGAGE.pdf
 B2022 Freshwater invertebrates in central Europe, kriska SPRINGER.pdf
+B2009 Marine science, decade by decade reed INFOBASE
 
 other
 B2018 Ecology of freshwaters, moss WILEY.pdf
@@ -3245,6 +3430,12 @@ B2014 Earth's climate, ruddiman OTHER.pdf
 2022 Disquisitions relating to principles of thermodynamic equilibrium in climate modelling, woodcock.pdf (?)
 2022 Global warming by geothermal heat from fracking, woodcock.pdf(?)
 2022 Physics of the Earth’s glacial cycle, smirnov.pdf(?)
+B2007 Weather and climate, decade by decade harper INFOBASE
+B2012 Global warming and climate change, tomecek INFOBASE
+B2017 The simple physics of energy use, rez OXFORD
+B2014 The climate modelling primer, mcguffie WILEY
+B2015 Earth’s climate response to a changing Sun, wit OTHER
+B2011 Minerals, metals and sustainability, rankin CRC
 I recently learned that waste heat will boil the oceans in about 400 years.(?)
 New Evidence We Are Entering An Ice Age Termination Event - EXPLAINED(?)
 
@@ -3331,7 +3522,12 @@ B2019 The climate question, rohling OXFORD
 B1996 Chemistry of the environment, spiro PEARSON
 B2014 Electricity from wave and tide, lynn WILEY
 B2018 Electricity from sunlight, lynn WILEY
-B2017 The simple physics of energy use, rez OXFORD
+B2014 Evolution of the atmosphere, fire and the anthropocene climate event horizon, glikson SPRINGER
+B2015 Atmospheric and space sciences, vol1 yigit SPRINGER
+B2018 Atmospheric and space sciences, vol2 yigit SPRINGER
+B2015 Helium, sears SPRINGER
+B2012 Understanding the Earth system, cornell CAMBRIDGE
+B2018 Petroleum, natural gas and coal, durand OTHER
 Has Global Warming Happened Before? Earth's History With Climate Change
 How Pangea Might Have Caused a Climate Crisis
 What the Hockey Stick missed about climate change
@@ -3340,6 +3536,9 @@ I Misunderstood the Greenhouse Effect. Here's How It Works.(?)
 Electric Vehicles: Will they save or destroy us?
 Electric Vehicles' Battery Problem
 Climate Change 2021: The Physical Science Basis
+
+in pt
+B2013 Fundamentos de energia eolica, pinto OTHER
 
 hydrology
 water so good!
@@ -3384,6 +3583,7 @@ B2019 Drinking water minerals and mineral balance, rosborg SPRINGER.pdf
 B2021 The science of water, spellman CRC
 B2016 Reverse osmosis, spellman CRC
 B2016 Groundwater prospecting and management, patra SPRINGER
+B2019 Ocean circulation in three dimensions, klinger CAMBRIDGE
 Physical Hydrology Lecture 1: Introduction
 Field Methods in Hydrology, Chapter 1, part 1
 How do Water Wells Work?
@@ -3405,6 +3605,7 @@ minerals
 healing crystals!
 B2006 Minerals, wenk CAMBRIDGE.pdf
 B2015 Understanding minerals & crystals, cairncross OTHER.pdf
+https://www.mindat.org/
 
 other
 B2014 Mineralogy, perkins PEARSON.pdf
@@ -3415,6 +3616,8 @@ B2022 Crystallography, marcos SPRINGER.pdf
 B2013 An introduction to the rock-forming minerals, zussman OTHER.pdf
 B2023 Transmitted Light Microscopy of rock-forming Minerals, schmidt SPRINGER.pdf
 B1992 An introduction to mineral sciences, putnis CAMBRIDGE.pdf
+B1997 X-ray diffraction and the identification and analysis of clay minerals, moore OXFORD
+B2015 Introduction to Louis Michel's lattice geometry through group action, zhilinskii OTHER
 Rock forming minerals
 Intro to Mineralogy
 Mineralogy: Lecture 1, Definition of a Mineral
@@ -3423,6 +3626,7 @@ Why are snowflakes like this?
 in pt
 B2014 Guia para microscopia de minerais em laminas delgadas, pt raith NONE.pdf
 B2008 Manual de ciência dos minerais, klein WILEY pt.pdf
+Amostras Selecionadas das Coleções de Rochas, Minerais e Fósseis do Museus Geológico – GEOBASES
 
 petrology
 science built around weirdos who date rocks. need a rockhounding date
@@ -3431,6 +3635,7 @@ B2014 Sedimentary Geology, prothero OTHER.pdf
 B2001 Sedimentary Petrology, tucker WILEY.pdf
 B2011 The field description of igneous rocks, jerram WILEY
 B2022 The field description of metamorphic rocks, jerram WILEY
+B2024 Sedimentary geology, rygel NONE
 
 other
 B1989 Basic analytical petrology, ragland OXFORD.pdf
@@ -3491,11 +3696,13 @@ B2012 Structural geology of rocks and regions, davis WILEY.pdf
 B2023 An introduction to Geotechnical Engineering, holtz PEARSON.pdf
 B2013 Geotechnical engineering, briaud WILEY.pdf
 B2019 Principles of foundation engineering, das CENGAGE.pdf
+B2018 Principles of geotechnical engineering, das CENGAGE
 Structure and deformation
 
 in pt
 B1998 Geologia estrutural, arthaud OTHER.pdf
 B2020 Análise Fisiografica, guimaraes NONE.pdf
+B2012 Mapeamento geologico, lisle WILEY
 Aula teórico-prática de bússola geológica: medição de atitudes (direção e mergulho ou "strike/dip")
 https://roteirosgeologicos.wordpress.com/
 
@@ -3560,4 +3767,7 @@ B2012 The paleogene and neogene of western Iberia (Portugal), pais SPRINGER.pdf
 Were the Azores home to an ancient civilisation? – BBC REEL(?)
 #1: Atlantis - Found in the Azores(?)
 
+in pt
+Imagens relacionadas com as Ciências da Terra - GEOIMAGENS
+Inventário de Sítios com Interesse Geológico - GEOSSÍTIOS
 
