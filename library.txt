@@ -45,6 +45,7 @@ B2021 Our place in the universe II, kwok SPRINGER.pdf
 B2022 Light-matter interaction, stenzel SPRINGER.pdf
 B2023 The Quantum nature of things, robinson CRC.pdf(?)
 B2017 Six ideas that shaped physics, moore MCGRAWHILL
+B2011 Analytical mechanics for relativity and quantum mechanics, johns OXFORD
 B2022 Modern physics, bellantoni WORLD-SCIENTIFIC
 B2023 Modern quantum theory, bertlmann OXFORD
 B2017 An introduction to modern astrophysics, carroll CAMBRIDGE
@@ -70,6 +71,7 @@ B2016 Atlas of animal anatomy and histology, kriska SPRINGER.pdf
 B2017 Principles of Human Physiology, stanfield PEARSON.pdf
 B2019 Molecular biology, clark ELSEVIER.pdf
 B2016 Biotechnology, clark ELSEVIER.pdf
+B2017 Concepts in Bioinformatics and Genomics, momand OXFORD.pdf
 B2020 Bioinformatics, baxevanis WILEY.pdf
 B2019 Biological psychology, kalat CENGAGE.pdf
 B2014 Life, savada OTHER
@@ -78,6 +80,7 @@ B2024 Fundamentals of brain and behavior, ray ROUTLEDGE
 B2014 Social psychology and human nature, baumeister CENGAGE
 
 (geo)
+B2013 Essentials of geology, marshak NORTON.pdf
 B2010 How does Earth work, smith PEARSON.pdf
 B2006 Physical processes in earth and environmental sciences, leeder WILEY.pdf
 B2017 Fundamentals of geomorphology, huggett ROUTLEDGE.pdf
@@ -87,6 +90,7 @@ B2014 Earth's climate, ruddiman OTHER.pdf
 B2010 Geological field techniques, spicer WILEY.pdf
 B2019 Modern structural practice, allmendinger NONE.pdf
 B2001 Sedimentary Petrology, tucker WILEY.pdf
+B2012 Physics of the atmosphere and climate, salby CAMBRIDGE
 B2013 Earth materials, klein CAMBRIDGE
 B2011 The field description of igneous rocks, jerram WILEY
 B2022 The field description of metamorphic rocks, jerram WILEY
@@ -140,7 +144,7 @@ B2016 Biologia moderna, vol2 amabis OTHER
 B2016 Biologia moderna, vol3 amabis OTHER
 B2017 Biologia molecular da célula, alberts GARLAND.pdf
 B2019 Genetica medica, schaefer MCGRAWHILL.pdf
-B2011 Introduçao à quimica organica, barbosa PEARSON
+B2013 Quimica organica, vollhardt OTHER
 B2018 Principios da bioquimica para universitarios, galante OTHER.pdf
 B2013 Principios de bioquimica Lehninger, nelson OTHER
 B2015 Química medicinal, barreiro OTHER.pdf
@@ -395,6 +399,7 @@ B2013 Refining sound, shepard OXFORD.pdf
 B2024 The Python audio cookbook, drymonitis ROUTLEDGE.pdf
 B2021 Audio technology, music, and media, ashbourn SPRINGER
 Music Production with FL Studio – Full Tutorial for Beginners
+How Toby Fox Composed the Music of UNDERTALE
 8-bit Music Theory - YouTube
 CS 472 Topics Overview
 
@@ -445,6 +450,7 @@ B2023 Mathematical modeling for epidemiology and ecology, ledder SPRINGER.pdf
 B2024 Mathematical methods using Python, kulp CRC
 B2024 Quantitative biosciences, weitz PRINCETON
 B2022 Mathematical methods for molecular science, straub OTHER
+B2023 An elementary introduction to the Wolfram language, wolfram OTHER
 
 other
 B2023 Engineering mathematics by example vol1, sobot SPRINGER.pdf
@@ -536,6 +542,7 @@ in pt
 B2016 Aplicaçoes da matematica, leite CENGAGE
 B2010 Matematica para fisicos com aplicações, vol1 neto OTHER
 B2011 Matematica para fisicos com aplicações, vol2 neto OTHER
+https://academiaaberta.pt/
 
 
 LaTeX
@@ -554,6 +561,13 @@ B2021 Calculus, stewart CENGAGE.pdf
 B2021 Introduction to Analysis with complex numbers, swanson WORLD-SCIENTIFIC.pdf
 B2019 Precalculus made difficult, braver OTHER.pdf
 B2019 Full frontal calculus, braver OTHER.pdf
+B2022 Calculus set free, dawson OXFORD.pdf(? - nonstandard analysis)
+2008 Algorithms and fundamental concepts of calculus
+B2008 Elementary real analysis, thomson NONE
+B2008 Real analysis, thomson NONE
+B2010 The calculus integral, thomson NONE
+B2013 Theory of the integral, thomson NONE
+2019 Boosting vector calculus with the graphical notation (?)
 
 other
 B2019 Calculus reordered, bressoud PRINCETON.pdf
@@ -565,7 +579,6 @@ B2023 The six pillars of calculus, biology edition sadun AMS.pdf
 B2018 Undergraduate Analysis, mccluskey OXFORD.pdf
 B2020 Elementary Calculus, corral NONE.pdf (? - nonstandard analysis)
 B2000 Elementary Calculus, keisler NONE.pdf (? - same)
-B2022 Calculus set free, dawson OXFORD.pdf(? - same but attempt at being educational)
 B2022 New infinitary mathematics, vopenka OTHER.pdf
 B2016 Biocalculus, stewart CENGAGE.pdf
 B1986 Calculus of One Variable, grossman ELSEVIER.pdf
@@ -594,6 +607,7 @@ B2009 Number systems and the foundations of analysis, mendelson OTHER.pdf
 1947 A number system without a zero-symbol, foster.pdf(? - you don’t really need it)
 2021 Non-power positional number representation systems, bijective numeration, and the mesoamerican discovery of zero, garibaldi.pdf(?)
 2020 Point-free foundation of geometry looking at laboratory activities, gerla.pdf(? - you don’t really need it but…)
+B2021 Correct antidifferentiation, abejon WORLD-SCIENTIFIC
 Calculus 1 - Full College Course
 Calculus 2 - Full College Course
 Calculus 3 Full Course | Calculus 3 complete course
@@ -613,6 +627,7 @@ B2021 Advanced Linear and Matrix Algebra, johnston SPRINGER.pdf
 B2023 Linear algebra with Python, tsukada SPRINGER.pdf
 B2023 The dark art of linear algebra, braver OTHER.pdf
 B2024 Linear algebra for earth scientists, walker CRC
+2020 An invitation to graphical tensor methods (?)
 
 other
 B2023 Linear Algebra and Group Theory for physicists and engineers, shapira SPRINGER.pdf
@@ -635,6 +650,7 @@ in pt
 B2008 Algebra linear, cabral OTHER.pdf
 diff equations
 B2012 Differential Equations, blanchard CENGAGE.pdf 
+https://reference.wolfram.com/language/tutorial/NDSolveOverview.html
 
 other
 B2008 Introduction to differential equations with dynamical systems, campbell PRINCETON.pdf
@@ -752,6 +768,7 @@ B2014 Mathematics, buium CRC.pdf
 B2011 The History of Mathematics, burton MC-GRAWHILL.pdf
 B2015 A first course in Abstract Algebra, anderson CRC.pdf
 B2018 An introduction to Number Theory with Cryptography, kraft CRC.pdf
+B2015 An introduction to essential algebraic structures, dixon WILEY
 
 other
 B2015 The foundations of mathematics, stewart OXFORD.pdf
@@ -833,6 +850,8 @@ Windows 10 and 11 Wont Boot, How To Fix UEFI Partition
 TIOBE Index
 Khan academy - Computer programming
 Developer Roadmaps
+draw.io
+CodeCrafters
 
 in pt
 B2010 Informatica, vol1 parte1 CENTRO-PAULA-SOUZA
@@ -899,8 +918,10 @@ How to Create Personal Blog Website Using HTML CSS JavaScript
 Computer Science in TypeScript (NO DEGREE REQUIRED) (Autocell Ep.01)
 Astro Crash Course in 60 Minutes
 Flutter for the JS Developer
+The JavaScript problem: Why Rails and Laravel won
 Learn The Dart Programming Language - Complete Free Course!
-
+Astro
+Astro UXDS
 php, node, java, Go, C#
 I recommend Go or Node/Deno.
 B2021 Learning PHP, MySQL & JavaScript, nixon REILLY.pdf
@@ -953,6 +974,7 @@ Learn GO Fast: Full Tutorial
 Go Programming – Golang Course with Bonus Projects
 ASP.NET Core Full Course For Beginners
 React, ASP.NET Core & GitHub Actions | Full Stack Tutorial
+Sequelize
 
 design
 B2022 Designing and Prototyping Interfaces with Figma, staiano PACKT.pdf
@@ -1022,6 +1044,7 @@ SQL Databases and the Firebase Database - The Firebase Database For SQL Develope
 devops + OSs
 B2022 Devops for the desperate, smith NO-STARCH-PRESS.pdf
 B2024 Bootstrapping microservices, davis MANNING
+How To Become A DevOps Engineer in 2023? | Skills To Learn
 
 other
 B2021 How Linux works, ward NO-STARCH-PRESS.pdf
@@ -1035,13 +1058,22 @@ B2022 Infrastructure as Code, wang MANNING.pdf
 Learn Terraform (and AWS) by Building a Dev Environment – Full Course for Beginners
 TempleOS in 100 Seconds
 Introduction to Operating System | Full Course for Beginners Mike Murphy 🌚 Lecture for Sleep & Study
-
+Introducing Atlas DDL: An HCL-based Language for Database Schemas
+Intro to Packer with AWS
+Full NixOS Guide: Everything You Need to Know in One Place!
 games + graphics
 When starting out you might want to take a stroll into how the engines work. For that maybe start with a simpler library like pygame before trying to code an engine yourself, a most useless endeavor that nevertheless might feel educational. For jobs, unity and c++ have always been strong (tho not really in my country).
 B2023 Introduction to computer graphics, eck NONE.pdf
 B2022 Fundamentals of Computer Graphics, shirley CRC.pdf
 B2021 Computer Graphics from Scratch, gambetta NO-STARCH-PRESS.pdf
 B2022 Game Development with Blender and Godot, obuz PACKT.pdf
+How to make a Video Game - Godot Beginner Tutorial
+【Unity Easy Backend】Introduction - Unity Php MySQL
+Pokemon Monster Collecting 3D Game in Unity Tutorial Episode 1 Camera Cinemachine Character Movement
+Add Multiplayer to your Godot Game!
+Export and Run a Godot Dedicated Server
+Can I Remake Super Mario World in Godot? (Part 1)
+Vulkan Game Engine Tutorial
 
 other
 B1990 Mathematical elements for Computer Graphics, rogers MCGRAWHILL.pdf
@@ -1078,14 +1110,19 @@ How Multiplayer Games Work
 C++ For Unreal Engine (Part 1) | Learn C++ For Unreal Engine | C++ Tutorial For Unreal Engine
 The Unreal Engine Game Framework: From int main() to BeginPlay
 Make a 2D Top Down Game in Unreal Engine 5 - Tutorial
+Detailed Tetris Tutorial in Python
 Creating a Zelda style game in Python [with some Dark Souls elements]
+Sprite Stacking in Python and Pygame
+How to Make a First Person Shooter like Wolfenstein 3D
 Java Game Development TUTORIAL  - Episode #01
 A New Beginning - Episode #01 - Java Game Development Tutorial
 Android Game Tutorial - Our First Code - Ep01
 Code a 2D Game Engine using Java - Full Course for Beginners
 Networking in C++ Part #1: MMO Client/Server, ASIO & Framework Basics
+3D 4 Dummies: Introducing 3D for Aspiring Artists
 Let's Learn Blender! #1: Getting Started for Beginners!
 Free Mini-Course for Blender | Pokémon Character!
+How to make Anime Character in Blender  -【Timelapse】
 Godot 4 Crash Course for Beginners - GameDev 2D Top Down Tutorial
 Godot Components - how to structure a game into manageable parts (Beginner/Intermediate)
 Godot 4 - Tiled Dungeon Environment From Scratch
@@ -1096,6 +1133,7 @@ Make A Game Like Pokemon in Unity | #1 - Introduction and Tile Based Movement
 How to choose your multiplayer backend
 Cross-Platform IAP Store Page with Unity IAP in 2023 | Unity Tutorial
 🎮 Online Leaderboards in 5 simple steps - Learn with LootLocker
+What was it like to CREATE an ARPG from scratch?
 Chris Courses - YouTube
 16BitDev - YouTube
 Gamefromscratch - YouTube
@@ -1115,6 +1153,8 @@ B2020 Programming machine learning, perrotta PRAGMATIC-PROGRAMMERS.pdf
 B2021 Deep Learning, glassner NO-STARCH-PRESS.pdf
 B2020 Deep Learning with Pytorch, viehmann MANNING.pdf
 B2022 Inside Deep Learning, raff MANNING.pdf
+The spelled-out intro to neural networks and backpropagation: building micrograd
+[1hr Talk] Intro to Large Language Models
 
 other
 B2024 Machine learning, animated, liu CRC.pdf
@@ -1143,6 +1183,9 @@ B2017 Machine learning with Go, whitenack PACKT.pdf
 B2024 Deep learning, bishop SPRINGER.pdf
 B2023 Machine learning for engineers, simeone CAMBRIDGE.pdf
 B2021 Ripple-down rules, compton CRC.pdf
+B2022 Machine learning, lindholm CAMBRIDGE
+B2023 Machine learning for physics and astronomy, acquaviva PRINCETON
+B2024 Machine learning for the physical sciences, cunha CRC
 Machine Learning in C (Episode 1)
 No Black Box Machine Learning Course – Learn Without Libraries
 CS 477 Probability Part 1.1
@@ -1152,11 +1195,14 @@ Liquid Neural Networks
 Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast #258
 Training AI to Play Pokemon with Reinforcement Learning
 Why Brain-like Computers Are Hard
+MAMBA from Scratch: Neural Nets Better and Faster than Transformers
+I Tried Every AI Coding Assistant
 Two Minute Papers - YouTube
 invideo AI
 LM Studio
 ImJoy
-
+Google DeepMind
+https://github.com/karpathy/LLM101n
 
 in pt
 B2012 Manual de computação evolutiva e metaheurística, antunes COIMBRA-PRESS.pdf
@@ -1251,6 +1297,7 @@ Should You Trust Science YouTubers?
 Bang To Sol (part 1 of 2)
 Human Extinction: What Are the Risks?
 10 Future Predictions to Blow Your Mind from World's Best Futurists
+Einstein's Nine-Year Struggle to Find a Job
 https://www.youtube.com/@science_sir
 Vsauce - YouTube
 Crash Course Kids - YouTube
@@ -1260,6 +1307,7 @@ TED - YouTube
 MIT OpenCourseWare - YouTube
 Science X: Phys.org, Medical Xpress, Tech Xplore - YouTube
 Science
+
 
 in pt
 https://www.youtube.com/@conteudosdecienciasnaturai9708
@@ -1329,6 +1377,7 @@ Lecture 1: Introduction to Einstein, Oppenheimer, Feynman: Physics in the 20th C
 Physics in 6 minutes
 Neil Turok Public Lecture: The Astonishing Simplicity of Everything
 Iceberg of Unsolved Mysteries in Physics
+1. Installing Anaconda / VS Code and Environment Setup (Build Your Own Particle Simulator In Python)
 Why Is There a Half In The Kinetic Energy Formula?
 
 in pt
@@ -1348,6 +1397,8 @@ B2023 Classical mechanics, kempen CRC.pdf
 B2022 Engineering mechanics, jiang OTHER
 B2019 Engineering dynamics, reilly SPRINGER
 B2020 Intermediate dynamics for engineers, reilly CAMBRIDGE
+B2011 Analytical mechanics for relativity and quantum mechanics, johns OXFORD
+B2011 Analytical mechanics for relativity and quantum mechanics, solutions johns OXFORD
 
 other
 B2020 Introduction to Mechanics of Particles and Systems, papachristou SPRINGER.pdf
@@ -1373,6 +1424,7 @@ PHYS 101 | Position & Velocity 1 - Position
 Newtonian mechanics revision
 ROCKET SCIENCE explained in 15 minutes! And How do satellites work?
 DERIVING the Orbit of Our Home Planet from Newton's Law of Gravity: Physics Mini Lesson
+https://dynref.engr.illinois.edu/index.html
 
 in pt
 B2004 Mecanica newtoniana, lagrangiana e hamiltoniana neto OTHER
@@ -1676,6 +1728,7 @@ B2023 Engineering fundamentals and problem solving, northup MCGRAWHILL.pdf
 B2022 Mechanical engineering design, ugural CRC.pdf
 B2023 The science of electric vehicles, spellman CRC
 What is Engineering?: Crash Course Engineering #1
+DIY Plywood Bed | Requires just 4 basic power tools!
 Fundamentals of Mechanical Engineering
 The Map of Engineering
 Best Mechanical Engineering Skills to Learn
@@ -1741,6 +1794,7 @@ B2022 New relativity in the gravitational universe, unnikrishnan SPRINGER
 B2012 Theory of relativity, manning INFOBASE
 B2010 A general relativity workbook, moore OTHER
 B2021 What is space-time made of, izabel OTHER (?)
+Something Strange Happens When You Follow Einstein's Math
 eigenchris - YouTube
 
 other
@@ -1789,7 +1843,7 @@ B2023 Fundamentals of particle physics, paganini CAMBRIDGE.pdf
 B2023 The Quantum nature of things, robinson CRC.pdf(?)
 B2023 Modern quantum theory, bertlmann OXFORD
 B2023 Fusion's promise, moynihan SPRINGER
-
+How Physicists Finally Solved The Infinity Problem
 other
 B2013 Quantum theory for mathematicians, hall SPRINGER.pdf
 B2020 Mathematical concepts of quantum mechanics, gustafson SPRINGER.pdf
@@ -1977,8 +2031,10 @@ All of Astronomy in 6 minutes
 The Dark Sky Paradox - A Never-Ending Universe
 Tour of the Moon in 4K
 JWST has made the "Crisis in Cosmology"  WORSE (AGAIN) | Night Sky News Sep 2023
+A Huge Cosmology Problem Might Just Have Disappeared
 dark matter is not a theory
 The Solar Cycle
+Alien Megastructure Candidates – Not as Crazy as it Sounds!
 
 in pt
 https://www.esero.pt/recursos/
@@ -2390,6 +2446,8 @@ B2016 Organic chemistry, bruice PEARSON.pdf
 B2015 Introduction to spectroscopy, pavia CENGAGE.pdf
 B2018 Essential biochemistry, pratt WILEY.pdf
 B2010 Introducing biological energetics, cheetham OXFORD.pdf
+Intro to Orgo Mechanisms Nucleophilic Attack and Loss of Leaving Group
+Organic Chemistry Is Not Introductory Chemistry
 Lecture 1A: Water (Polarity)
 
 other
@@ -2411,12 +2469,12 @@ B2013 Lehninger principles of Biochemistry, nelson OTHER.pdf
 B2008 Essentials of chemical Biology, miller WILEY.pdf
 B2021 Integrative Human Biochemistry, castanho SPRINGER.pdf
 B2019 The structure dependent energy of organic compounds, furka SPRINGER
-Organic Chemistry Is Not Introductory Chemistry
 001-Introduction to Biochemistry
 Crash Course Organic Chemistry Preview
 Homochirality: Why Nature Never Makes Mirror Molecules
 
 in pt
+B2013 Quimica organica, vollhardt OTHER
 B2018 Principios da bioquimica para universitarios, galante OTHER.pdf
 B2013 Principios de bioquimica Lehninger, nelson OTHER
 B2011 Introduçao à quimica organica, barbosa PEARSON
@@ -2648,7 +2706,7 @@ B2016 A águia-imperial-ibérica e as outras aves de rapina de Portugal.pdf
 Os Nossos Animais Selvagens de 20 nov 2023 - RTP Play
 Companhia dos Animais – RTP Arquivos
 Portugal Selvagem
-
+Selvagens e Excêntricos - Recordes Animais de 26 mai 2024 - RTP Play
 anatomy + physiology
 fleshy stuff
 B2017 Fundamentals of anatomy and physiology, peate WILEY.pdf
@@ -3088,6 +3146,7 @@ The only down-to-Earth science even if you only think in million year intervals.
 B2018 Introducing geology, park DUNEDIN.pdf
 B2018 The geology companion, prost CRC.pdf
 B1992 Planet Earth, emiliani CAMBRIDGE.pdf
+B2013 Essentials of geology, marshak NORTON.pdf
 B2019 Geology, parriaux CRC
 B2013 Earth materials, klein CAMBRIDGE
 B2009 Rocks and minerals, cull INFOBASE
@@ -3134,6 +3193,8 @@ https://www.youtube.com/@colinkolbus/videos
 Geology.com
 Teach the Earth
 Geology is the Way
+R libraries for geoscience-Danny Coutts Blog
+https://ssl.eas.ualberta.ca/open-house/#tours
 
 in pt
 2015 Do ciclo das rochas ao ciclo tectónico, moreira.pdf
@@ -3142,6 +3203,7 @@ B2009 Decifrando a Terra, teixeira OTHER
 B2009 Decifrando a Terra, teixeira big-file OTHER
 B2004 Para entender a Terra, grotzinger big-file OTHER
 B1994 Historia ecologica da Terra, labouriau OTHER.pdf
+MUHNAC ULisboa - Vamos falar de Geologia
 O chão que pisamos - 500 milhões de anos de Rochas e Paisagens em Portugal
 Porque é que há diferentes tipos de vulcões?
 apgeologos.pt
@@ -3151,6 +3213,7 @@ https://archive.org/details/segredos-rochas
 Download de Cartografia Geológica e Hidrogeológica
 Terrae Didatica
 Locus GIS
+Zoom Earth
 
 geography
 B2018 Visualizing Human Geography, greiner WILEY.pdf
@@ -3360,6 +3423,7 @@ Environmental Science 1 (Introduction)
 Dangers of artificial islands
 GBIF
 InVEST | The Natural Capital Project
+https://www.rockware.com/
 
 in pt
 B2010 Guia de campo Dia B.pdf
@@ -3430,14 +3494,17 @@ B2014 Earth's climate, ruddiman OTHER.pdf
 2022 Disquisitions relating to principles of thermodynamic equilibrium in climate modelling, woodcock.pdf (?)
 2022 Global warming by geothermal heat from fracking, woodcock.pdf(?)
 2022 Physics of the Earth’s glacial cycle, smirnov.pdf(?)
+B2012 Physics of the atmosphere and climate, salby CAMBRIDGE
 B2007 Weather and climate, decade by decade harper INFOBASE
 B2012 Global warming and climate change, tomecek INFOBASE
 B2017 The simple physics of energy use, rez OXFORD
 B2014 The climate modelling primer, mcguffie WILEY
 B2015 Earth’s climate response to a changing Sun, wit OTHER
 B2011 Minerals, metals and sustainability, rankin CRC
+2023 How a stable greenhouse effect on Earth is maintained under global warming
 I recently learned that waste heat will boil the oceans in about 400 years.(?)
 New Evidence We Are Entering An Ice Age Termination Event - EXPLAINED(?)
+Greenhouse Effect of the Atmosphere(?)
 
 other
 B2013 Introduction to weather and climate science, martin COGNELLA.pdf
@@ -3626,6 +3693,7 @@ Why are snowflakes like this?
 in pt
 B2014 Guia para microscopia de minerais em laminas delgadas, pt raith NONE.pdf
 B2008 Manual de ciência dos minerais, klein WILEY pt.pdf
+T2007 Descobrir a geologia através do quartzo
 Amostras Selecionadas das Coleções de Rochas, Minerais e Fósseis do Museus Geológico – GEOBASES
 
 petrology
@@ -3636,6 +3704,7 @@ B2001 Sedimentary Petrology, tucker WILEY.pdf
 B2011 The field description of igneous rocks, jerram WILEY
 B2022 The field description of metamorphic rocks, jerram WILEY
 B2024 Sedimentary geology, rygel NONE
+Sedimentary Geology: Rocks, Environments and Stratigraphy - Geosciences LibreTexts
 
 other
 B1989 Basic analytical petrology, ragland OXFORD.pdf
@@ -3651,6 +3720,7 @@ B2014 Elements of petroleum geology, selley ELSEVIER.pdf
 B2016 Petrophysics, tiab ELSEVIER.pdf
 B2010 Principles of igneous and metamorphic petrology, winter PEARSON.pdf
 B2014 Petrology, sen SPRINGER
+B2014 Principles of sedimentology and stratigraphy, boggs PEARSON
 Lecture 1.1 - Introduction (Volcanoes, magmas and their geochemistry)
 Igneous Rocks Introduction
 Rock Identification with Willsey: Intro to rock types and useful ID tips
@@ -3746,6 +3816,7 @@ B2017 An introduction to physical geography and the environment, holden PEARSON
 B2022 Principles of sequence stratigraphy, catuneanu ELSEVIER
 B2002 Volcanoes in human history, boer PRINCETON
 B2017 Aerial geology, morton OTHER
+B2018 Geology and landscape evolution, dipietro ELSEVIER
 Geomorphology 1: Introduction
 How do continents form: The Wyoming craton example
 Why’d the Ocean Stop Getting Saltier?
@@ -3761,13 +3832,16 @@ B2020 Catástrofes antrópicas, castro COIMBRA-PRESS.pdf
 2023 Grandes incêndios florestais no noroeste de Portugal, santos.pdf
 
 regional
+B2019 The geology of Germany, meschede SPRINGER
 
+other
 B2020 Nature through time, martinetto SPRINGER.pdf
 B2012 The paleogene and neogene of western Iberia (Portugal), pais SPRINGER.pdf
 Were the Azores home to an ancient civilisation? – BBC REEL(?)
 #1: Atlantis - Found in the Azores(?)
 
 in pt
+T2007 Aprender geologia de Portugal com as rochas do campus da universidade
 Imagens relacionadas com as Ciências da Terra - GEOIMAGENS
 Inventário de Sítios com Interesse Geológico - GEOSSÍTIOS
 
